@@ -1,2 +1,7 @@
-# rodovid
-Genealogy website repository
+# Rodovid
+Веб-сайт для систематизації генеалогічних даних.
+
+## Контакти:
+Жилочкін Вадим Максимович <br />
++380505238593 <br />
+vzhylochkin@gmail.com
