@@ -111,7 +111,7 @@
 
         searchBar.addEventListener("focusin", () => {
             searchList.classList.add("open");
-            outputSearchList("")
+            outputSearchList(searchBar.value)
         });
 
         document.addEventListener("click", () => {
@@ -146,7 +146,7 @@
 
         function writePersonToMap(person) {
             var x = person["Координати"].slice(0, 8);
-            var y = person["Координати"].slice(11, 20);
+            var y = person["Координати"].slice(11, person.length);
             var marker = L.marker([x, y], {
                 icon: graveIcon
             }).addTo(map).on('click', markerClickCall);
