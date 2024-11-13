@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap');
+$prime: #a50000;
+$dark: #000;
+$light: #fff;
+* {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    scroll-behavior: smooth;
+}
+
+body {
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background-color: $prime;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        z-index: 1;
+        h1 {
+            color: $light;
+            margin: 50px;
+        }
+        .links {
+            position: absolute;
+            right: 50px;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            a {
+                color: $light;
+                text-decoration: none;
+                height: 100%;
+                padding: 0 25px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 200ms ease-in-out;
+                margin-top: 0;
+                &:hover {
+                    margin-top: -3px;
+                }
+            }
+        }
+    }
+    main {
+        position: absolute;
+        width: 100%;
+        height: calc(100% - 70px);
+        top: 70px;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        h2,
+        p {
+            margin-left: 15%;
+            line-height: 25px;
+        }
+        #contactLink {
+            position: absolute;
+            bottom: 25px;
+            right: 25px;
+            padding: 15px 35px;
+            color: $light;
+            text-decoration: none;
+            background-color: $prime;
+            border-radius: 25px;
+            transition: all 250ms ease-in-out;
+            &:hover {
+                padding: 15px 40px;
+            }
+        }
+    }
+    #contact {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        height: 50%;
+        width: 100%;
+        background-color: $dark;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        h1 {
+            color: $light;
+            margin-left: 10%;
+        }
+        div {
+            border-left: 3px solid $prime;
+            padding-left: 15px;
+            display: flex;
+            flex-direction: column;
+            margin-left: 100px;
+            a {
+                color: $light;
+                text-decoration: none;
+                margin: 10px;
+                span {
+                    margin-right: 10px
+                }
+            }
+        }
+    }
+}
