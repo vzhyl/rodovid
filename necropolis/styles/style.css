@@ -165,9 +165,19 @@ body #personWindow div {
 }
 body #personWindow div p {
   color: #000;
+  margin: 50px 0;
 }
-body #personWindow div p span {
+body #personWindow div p span:nth-child(1) {
   color: #a50000;
+  border: 2px solid #a50000;
+  border-radius: 35px;
+  padding: 10px 15px;
+  margin: 0 15px;
+}
+body #personWindow div p span:nth-child(2) {
+  position: absolute;
+  width: 50%;
+  word-wrap: break-word;
 }
 body #personWindow #personCoords {
   color: #000;
@@ -183,6 +193,7 @@ body #personWindow #personCoords {
 body #personWindow #personCoords span {
   color: #a50000;
   border: 2px solid #a50000;
-  border-radius: 10px;
-  padding: 10px;
+  border-radius: 35px;
+  padding: 10px 15px;
+  margin: 0 15px;
 }/*# sourceMappingURL=style.css.map */

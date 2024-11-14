@@ -163,8 +163,18 @@ body {
             width: 75%;
             p {
                 color: $dark;
-                span {
+                margin: 50px 0;
+                span:nth-child(1) {
                     color: $prime;
+                    border: 2px solid $prime;
+                    border-radius: 35px;
+                    padding: 10px 15px;
+                    margin: 0 15px;
+                }
+                span:nth-child(2) {
+                    position: absolute;
+                    width: 50%;
+                    word-wrap: break-word;
                 }
             }
         }
@@ -180,10 +190,10 @@ body {
             align-items: center;
             span {
                 color: $prime;
-                //background-color: $prime;
                 border: 2px solid $prime;
-                border-radius: 10px;
-                padding: 10px;
+                border-radius: 35px;
+                padding: 10px 15px;
+                margin: 0 15px;
             }
         }
     }

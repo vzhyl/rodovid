@@ -43,8 +43,8 @@
         <h2 id="personName">Натисніть на поховання, щоб побачити інформацію</h2>
         <p id="personDates"></p>
         <div>
-            <p id="personCemetryName"><span></span></p>
-            <p id="personText"><span></span></p>
+            <p id="personCemetryName"></p>
+            <p id="personText"></p>
         </div>
         <p id="personCoords"></p>
     </div>
@@ -167,8 +167,8 @@
             map.flyTo([x, y], 18)
             document.getElementById("personName").innerHTML = person["ПІБ"];
             document.getElementById("personDates").innerHTML = person["Роки життя"];
-            document.getElementById("personCemetryName").innerHTML = "<span>Цвинтар: </span>" + person["Назва цвинтаря"];
-            document.getElementById("personText").innerHTML = "<span>Примітка: </span>" + person["Примітка"];
+            document.getElementById("personCemetryName").innerHTML = "<span>Цвинтар</span>" + `<span>${person["Назва цвинтаря"]}</span>`;
+            document.getElementById("personText").innerHTML = "<span>Примітка</span>" + `<span>${person["Примітка"]}</span>`;
             document.getElementById("personCoords").innerHTML = "Координати поховання: " + `<span>${person["Координати"]}</span>`;
         }
     </script>
