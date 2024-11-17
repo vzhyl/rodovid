@@ -145,6 +145,12 @@ body #textOutput img {
      object-fit: cover;
   cursor: pointer;
 }
+body #textOutput i {
+  font-style: italic;
+}
+body #textOutput b {
+  font-weight: 900;
+}
 body #backBtn {
   position: fixed;
   left: -25%;

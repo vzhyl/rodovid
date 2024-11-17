@@ -144,6 +144,12 @@ body {
             object-fit: cover;
             cursor: pointer;
         }
+        i {
+            font-style: italic;
+        }
+        b {
+            font-weight: 900;
+        }
     }
     #backBtn {
         position: fixed;
