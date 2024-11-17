@@ -163,18 +163,17 @@ body {
             width: 75%;
             p {
                 color: $dark;
-                margin: 50px 0;
-                span:nth-child(1) {
-                    color: $prime;
+                width: 100%;
+                word-wrap: break-word;
+                div {
                     border: 2px solid $prime;
                     border-radius: 35px;
-                    padding: 10px 15px;
-                    margin: 0 15px;
-                }
-                span:nth-child(2) {
-                    position: absolute;
-                    width: 50%;
-                    word-wrap: break-word;
+                    width: 100%;
+                    margin: 25px 0;
+                    padding: 15px 15px;
+                    span {
+                        color: $prime;
+                    }
                 }
             }
         }
@@ -186,14 +185,13 @@ body {
             bottom: 25px;
             display: flex;
             flex-direction: row;
-            justify-content: space-around;
+            justify-content: space-evenly;
             align-items: center;
             span {
                 color: $prime;
                 border: 2px solid $prime;
                 border-radius: 35px;
                 padding: 10px 15px;
-                margin: 0 15px;
             }
         }
     }

@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap");
+* {
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+body nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background-color: #a50000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  z-index: 1;
+}
+body nav h1 {
+  color: #fff;
+  margin: 50px;
+}
+body nav .links {
+  position: absolute;
+  right: 50px;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+body nav .links a {
+  color: #fff;
+  text-decoration: none;
+  height: 100%;
+  padding: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 200ms ease-in-out;
+  margin-top: 0;
+}
+body nav .links a:hover {
+  margin-top: -3px;
+}
+body #search {
+  position: absolute;
+  top: 25%;
+  width: 70%;
+  left: 15%;
+  transition: all 750ms ease-in-out;
+}
+body #search #searchInput #searchBar {
+  -webkit-tap-highlight-color: transparent;
+  width: calc(100% - 30px);
+  border: 0;
+  padding: 15px;
+  border-radius: 25px;
+  outline: 2px solid #a50000;
+  transition: all 250ms ease-in-out;
+  background-color: #fff;
+}
+body #search #searchInput #searchBar:focus {
+  outline: 2px solid #000;
+}
+body #search #searchInput #searchBtn {
+  visibility: hidden;
+}
+body #search #resList {
+  margin-top: 50px;
+}
+body #search #resList .resObj {
+  margin-top: 25px;
+  background-color: #fff;
+  padding: 10px 15px 25px 0;
+}
+body #search #resList .resObj:not(:last-child) {
+  border-bottom: 2px solid #a50000;
+}
+body #search #resList .resObj a {
+  text-decoration: none;
+  color: #000;
+  font-size: x-large;
+  cursor: pointer;
+}
+body #search #resList .resObj div {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+body #search #resList .resObj div p {
+  text-wrap: nowrap;
+}
+body #search #resList .resObj div p span {
+  outline: 2px solid #a50000;
+  color: #a50000;
+  border-radius: 35px;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+body #search #resList .resObj div ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 40%;
+  justify-content: end;
+}
+body #search #resList .resObj div ul li {
+  margin: 5px 5px;
+  background-color: #a50000;
+  color: #fff;
+  border-radius: 25px;
+  padding: 5px 10px;
+  font-size: small;
+  height: -moz-fit-content;
+  height: fit-content;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+body #textOutput {
+  position: absolute;
+  top: 25%;
+  width: 50%;
+  left: 100%;
+  transition: all 750ms ease-in-out;
+}
+body #textOutput p {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body #textOutput img {
+  border: 2px solid #a50000;
+  border-radius: 10px;
+  width: 100%;
+  max-height: 50vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  cursor: pointer;
+}
+body #backBtn {
+  position: fixed;
+  left: -25%;
+  top: 20%;
+  background-color: #a50000;
+  color: #fff;
+  border: 0;
+  padding: 10px 25px;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 500ms ease-in-out;
+}/*# sourceMappingURL=style.css.map */

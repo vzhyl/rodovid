@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Статті</title>
+
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <nav>
+        <h1>Статті та тексти</h1>
+        <div class="links">
+            <a href="../index.html">Головна</a>
+            <a href="../tree/index.html">Дерево</a>
+            <a href="../necropolis/necropolis.html">Некрополь</a>
+            <a href="../index.html#contact">Контакти</a>
+        </div>
+    </nav>
+
+    <div id="search">
+        <div id="searchInput">
+            <h1>Пошук по назві</h1>
+            <input type="text" id="searchBar" placeholder="Введіть назву статті..." autocomplete="off">
+        </div>
+
+        <div id="resList">
+            <!-- <div class="resObj">
+                <a>Приклад результату пошуку, цей текст - назва статті</a>
+                <div>
+                    <p><span>15.11.2029</span> Жилочкін Вадим</p>
+                    <ul>
+                        <li>Поважук</li>
+                        <li>Козаки</li>
+                    </ul>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+    <div id="textOutput"></div>
+
+    <button id="backBtn" onclick="scrollToTop(goBackBtn)">Назад</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+
+    <script src="script.js"></script>
+
+
+</body>
+
+</html>

@@ -165,19 +165,18 @@ body #personWindow div {
 }
 body #personWindow div p {
   color: #000;
-  margin: 50px 0;
+  width: 100%;
+  word-wrap: break-word;
 }
-body #personWindow div p span:nth-child(1) {
-  color: #a50000;
+body #personWindow div p div {
   border: 2px solid #a50000;
   border-radius: 35px;
-  padding: 10px 15px;
-  margin: 0 15px;
+  width: 100%;
+  margin: 25px 0;
+  padding: 15px 15px;
 }
-body #personWindow div p span:nth-child(2) {
-  position: absolute;
-  width: 50%;
-  word-wrap: break-word;
+body #personWindow div p div span {
+  color: #a50000;
 }
 body #personWindow #personCoords {
   color: #000;
@@ -187,7 +186,7 @@ body #personWindow #personCoords {
   bottom: 25px;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 body #personWindow #personCoords span {
@@ -195,5 +194,4 @@ body #personWindow #personCoords span {
   border: 2px solid #a50000;
   border-radius: 35px;
   padding: 10px 15px;
-  margin: 0 15px;
 }/*# sourceMappingURL=style.css.map */

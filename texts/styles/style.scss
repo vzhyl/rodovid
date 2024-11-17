@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap');
+$prime: #a50000;
+$dark: #000;
+$light: #fff;
+* {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background-color: $prime;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        z-index: 1;
+        h1 {
+            color: $light;
+            margin: 50px;
+        }
+        .links {
+            position: absolute;
+            right: 50px;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            a {
+                color: $light;
+                text-decoration: none;
+                height: 100%;
+                padding: 0 25px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 200ms ease-in-out;
+                margin-top: 0;
+                &:hover {
+                    margin-top: -3px;
+                }
+            }
+        }
+    }
+    #search {
+        position: absolute;
+        top: 25%;
+        width: 70%;
+        left: 15%;
+        transition: all 750ms ease-in-out;
+        #searchInput {
+            #searchBar {
+                -webkit-tap-highlight-color: transparent;
+                width: calc(100% - 30px);
+                border: 0;
+                padding: 15px;
+                border-radius: 25px;
+                outline: 2px solid $prime;
+                transition: all 250ms ease-in-out;
+                background-color: $light;
+                &:focus {
+                    outline: 2px solid $dark;
+                }
+            }
+            #searchBtn {
+                visibility: hidden;
+            }
+        }
+        #resList {
+            margin-top: 50px;
+            .resObj {
+                margin-top: 25px;
+                background-color: $light;
+                padding: 10px 15px 25px 0;
+                &:not(:last-child) {
+                    border-bottom: 2px solid $prime;
+                }
+                a {
+                    text-decoration: none;
+                    color: $dark;
+                    font-size: x-large;
+                    cursor: pointer;
+                }
+                div {
+                    margin-top: 10px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    p {
+                        text-wrap: nowrap;
+                        span {
+                            outline: 2px solid $prime;
+                            color: $prime;
+                            border-radius: 35px;
+                            padding: 5px 10px;
+                            margin-right: 10px;
+                        }
+                    }
+                    ul {
+                        list-style: none;
+                        display: flex;
+                        flex-direction: row;
+                        flex-wrap: wrap;
+                        max-width: 40%;
+                        justify-content: end;
+                        li {
+                            margin: 5px 5px;
+                            background-color: $prime;
+                            color: $light;
+                            border-radius: 25px;
+                            padding: 5px 10px;
+                            font-size: small;
+                            height: fit-content;
+                            user-select: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #textOutput {
+        position: absolute;
+        top: 25%;
+        width: 50%;
+        left: 100%;
+        transition: all 750ms ease-in-out;
+        p {
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+        img {
+            border: 2px solid $prime;
+            border-radius: 10px;
+            width: 100%;
+            max-height: 50vh;
+            object-fit: cover;
+            cursor: pointer;
+        }
+    }
+    #backBtn {
+        position: fixed;
+        left: -25%;
+        top: 20%;
+        background-color: $prime;
+        color: $light;
+        border: 0;
+        padding: 10px 25px;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: all 500ms ease-in-out;
+    }
+}
