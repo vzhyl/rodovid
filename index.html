@@ -6,19 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Родинний веб-сайт</title>
 
-    <link rel="stylesheet" href="index_styles/index.css">
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="index_files/styles/index.css">
+    <link rel="shortcut icon" href="index_files/img/favicon.png" type="image/x-icon">
 </head>
 
 <body>
 
     <nav>
         <h1>Родовід</h1>
-        <div class="links">
+        <div id="navLinks">
             <a href="tree/index.html">Дерево</a>
             <a href="necropolis/necropolis.html">Некрополь</a>
             <a href="texts/texts.html">Статті</a>
             <a href="#contact">Контакти</a>
+        </div>
+        <div id="burgerBtn">
+            <div></div>
         </div>
     </nav>
 
@@ -38,6 +41,16 @@
             <a href="https://www.facebook.com/profile.php?id=100051858060740"><span>Facebook</span></a>
         </div>
     </div>
+
+    <script>
+        const burgerBtn = document.getElementById("burgerBtn");
+        const navLinks = document.getElementById("navLinks");
+
+        burgerBtn.addEventListener("click", function() {
+            burgerBtn.classList.toggle("open");
+            navLinks.classList.toggle("open");
+        })
+    </script>
 
 
 </body>
