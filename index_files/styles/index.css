@@ -219,7 +219,7 @@
   }
   body main #contactLink {
     position: absolute;
-    top: calc(100vh - 50px);
+    bottom: 0;
     left: 0;
     width: 100vw;
     height: 50px;
@@ -233,7 +233,7 @@
   }
   body #contact {
     position: absolute;
-    top: 100vh;
+    top: 100%;
     left: 0;
     height: -moz-fit-content;
     height: fit-content;
@@ -259,6 +259,7 @@
     color: #fff;
     text-decoration: none;
     margin: 10px;
+    text-align: center;
   }
   body #contact div a span {
     margin-right: 10px;
