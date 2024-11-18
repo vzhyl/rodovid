@@ -225,7 +225,7 @@ $light: #fff;
             }
             #contactLink {
                 position: absolute;
-                bottom: 0;
+                top: calc(100vh - 50px);
                 left: 0;
                 width: 100vw;
                 height: 50px;
@@ -240,7 +240,7 @@ $light: #fff;
         }
         #contact {
             position: absolute;
-            top: 100%;
+            top: 100vh;
             left: 0;
             height: fit-content;
             width: 100vw;
