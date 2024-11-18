@@ -7,46 +7,6 @@
 }
 
 @media screen and (min-width: 850px) {
-  body nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 70px;
-    background-color: #a50000;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    z-index: 1;
-  }
-  body nav h1 {
-    color: #fff;
-    margin: 50px;
-  }
-  body nav #navLinks {
-    position: absolute;
-    right: 50px;
-    height: 100%;
-    display: flex;
-    flex-direction: row;
-  }
-  body nav #navLinks a {
-    color: #fff;
-    text-decoration: none;
-    height: 100%;
-    padding: 0 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: all 200ms ease-in-out;
-    margin-top: 0;
-  }
-  body nav #navLinks a:hover {
-    margin-top: -3px;
-  }
-  body nav #burgerBtn {
-    visibility: hidden;
-  }
   body main {
     position: absolute;
     width: 100%;
@@ -108,99 +68,7 @@
   }
 }
 @media screen and (max-width: 849px) {
-  body {
-    overflow-x: hidden;
-  }
-  body nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 70px;
-    background-color: #a50000;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    z-index: 1;
-  }
-  body nav h1 {
-    color: #fff;
-    margin: 50px;
-  }
-  body nav #navLinks {
-    position: absolute;
-    background-color: #a50000;
-    right: -100%;
-    top: 0;
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    transition: all 250ms ease-in-out;
-  }
-  body nav #navLinks a {
-    color: #fff;
-    text-decoration: none;
-    padding: 0 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: all 200ms ease-in-out;
-    margin: 5%;
-  }
-  body nav #navLinks.open {
-    right: 0;
-  }
-  body nav #burgerBtn {
-    height: 30px;
-    width: 35px;
-    right: 10%;
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: all 250ms ease-in-out;
-    z-index: 100;
-  }
-  body nav #burgerBtn div {
-    height: 3px;
-    width: 100%;
-    background-color: #fff;
-    transition: all 250ms ease-in-out;
-  }
-  body nav #burgerBtn::before {
-    content: "";
-    position: absolute;
-    height: 3px;
-    width: 100%;
-    background-color: #fff;
-    transition: all 250ms ease-in-out;
-    margin-top: 50%;
-  }
-  body nav #burgerBtn::after {
-    content: "";
-    position: absolute;
-    height: 3px;
-    width: 100%;
-    background-color: #fff;
-    transition: all 250ms ease-in-out;
-    margin-bottom: 50%;
-  }
-  body nav #burgerBtn.open div {
-    opacity: 0;
-  }
-  body nav #burgerBtn.open::before {
-    transform: rotate(-45deg);
-    margin-top: 0;
-  }
-  body nav #burgerBtn.open::after {
-    transform: rotate(45deg);
-    margin-bottom: 0;
-  }
-  body main {
+  main {
     position: absolute;
     width: 100%;
     height: calc(100% - 70px);
@@ -211,13 +79,13 @@
     justify-content: center;
     align-items: center;
   }
-  body main h2,
-  body main p {
+  main h2,
+  main p {
     line-height: 25px;
     text-align: center;
     width: 70%;
   }
-  body main #contactLink {
+  main #contactLink {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -231,7 +99,7 @@
     align-items: center;
     justify-content: center;
   }
-  body #contact {
+  #contact {
     position: absolute;
     top: 100%;
     left: 0;
@@ -243,11 +111,11 @@
     flex-direction: column;
     align-items: center;
   }
-  body #contact h1 {
+  #contact h1 {
     color: #fff;
     margin-top: 10vh;
   }
-  body #contact div {
+  #contact div {
     border-top: 3px solid #a50000;
     padding-top: 15px;
     display: flex;
@@ -255,13 +123,13 @@
     align-items: center;
     margin: 5vh 0;
   }
-  body #contact div a {
+  #contact div a {
     color: #fff;
     text-decoration: none;
     margin: 10px;
     text-align: center;
   }
-  body #contact div a span {
+  #contact div a span {
     margin-right: 10px;
   }
 }/*# sourceMappingURL=index.css.map */
