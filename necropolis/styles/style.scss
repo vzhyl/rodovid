@@ -218,6 +218,8 @@ $light: #fff;
         padding-top: 25px;
         transition: all 250ms ease-in-out;
         background-color: $light;
+        display: flex;
+        flex-direction: column;
         #personName {
             margin: 0;
             color: $prime;
@@ -249,28 +251,25 @@ $light: #fff;
             }
         }
         #personCoords {
-            color: $dark;
-            position: absolute;
-            width: 90vw;
-            bottom: 25px;
+            color: $prime;
             display: flex;
+            width: fit-content;
             flex-direction: row;
-            justify-content: space-around;
+            justify-content: start;
             align-items: center;
             word-wrap: break-word;
+            border: 2px solid $prime;
+            border-radius: 15px;
+            padding: 10px;
             span {
-                color: $prime;
-                border: 2px solid $prime;
-                border-radius: 15px;
-                word-wrap: break-word;
-                padding: 2.5%;
-                margin-left: 15px;
+                color: $dark;
                 text-align: center;
+                margin-left: 10px;
             }
         }
         #personOpenBtn {
             position: fixed;
-            left: 0;
+            left: 5px;
             top: 45vh;
             font-size: xx-large;
             padding: 5px;
@@ -279,8 +278,8 @@ $light: #fff;
             color: $light;
             background-color: $prime;
             transition: all 250ms ease-in-out;
-            width: 20px;
-            height: 20px;
+            width: 25px;
+            height: 25px;
             &::before {
                 content: '';
                 position: absolute;
