@@ -226,6 +226,8 @@
     padding-top: 25px;
     transition: all 250ms ease-in-out;
     background-color: #fff;
+    display: flex;
+    flex-direction: column;
   }
   #personWindow #personName {
     margin: 0;
@@ -258,28 +260,26 @@
     word-wrap: break-word;
   }
   #personWindow #personCoords {
-    color: #000;
-    position: absolute;
-    width: 90vw;
-    bottom: 25px;
+    color: #a50000;
     display: flex;
+    width: -moz-fit-content;
+    width: fit-content;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: start;
     align-items: center;
     word-wrap: break-word;
-  }
-  #personWindow #personCoords span {
-    color: #a50000;
     border: 2px solid #a50000;
     border-radius: 15px;
-    word-wrap: break-word;
-    padding: 2.5%;
-    margin-left: 15px;
+    padding: 10px;
+  }
+  #personWindow #personCoords span {
+    color: #000;
     text-align: center;
+    margin-left: 10px;
   }
   #personWindow #personOpenBtn {
     position: fixed;
-    left: 0;
+    left: 5px;
     top: 45vh;
     font-size: xx-large;
     padding: 5px;
@@ -288,8 +288,8 @@
     color: #fff;
     background-color: #a50000;
     transition: all 250ms ease-in-out;
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
   }
   #personWindow #personOpenBtn::before {
     content: "";
