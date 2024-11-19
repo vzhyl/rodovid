@@ -106,6 +106,7 @@ function markerClick(e, person) {
 }
 
 function writePersonToWindow(person) {
+    document.getElementById("personCoords").classList.remove("empty");
     var x = person["Координати"].slice(0, 8);
     var y = person["Координати"].slice(11, 20);
     map.flyTo([x, y], 18)
@@ -113,5 +114,11 @@ function writePersonToWindow(person) {
     document.getElementById("personDates").innerHTML = person["Роки життя"];
     document.getElementById("personCemetryName").innerHTML = "<div><span>Цвинтар: </span>" + `${person["Назва цвинтаря"]}</div>`;
     document.getElementById("personText").innerHTML = "<div><span>Примітка: </span>" + `${person["Примітка"]}</div>`;
-    document.getElementById("personCoords").innerHTML = "Координати поховання: " + `<span>${person["Координати"]}</span>`;
+    document.getElementById("personCoords").innerHTML = "Координати: " + `<span>${person["Координати"]}</span>`;
 }
+
+const openPersonWindowBtn = document.querySelector("#personOpenBtn");
+
+openPersonWindowBtn.addEventListener("click", () => {
+    document.querySelector("#personWindow").classList.toggle("open")
+})

@@ -14,6 +14,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
 
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="../!general/styles/general.css">
     <link rel="shortcut icon" href="../index_files/img/favicon.png" type="image/x-icon">
 
 </head>
@@ -22,7 +23,7 @@
 
     <nav>
         <h1>Некрополь</h1>
-        <div class="links">
+        <div id="navLinks">
             <a href="../index.html">Головна</a>
             <a href="../tree/index.html">Дерево</a>
             <a href="../necropolis/necropolis.html">Некрополь</a>
@@ -32,6 +33,9 @@
         <div id="searchBar">
             <input type="text" placeholder="Прізвище ім'я по батькові..." id="searchBarInput" autocomplete="off">
             <div id="searchList"></div>
+        </div>
+        <div id="burgerBtn">
+            <div></div>
         </div>
     </nav>
 
@@ -46,15 +50,16 @@
             <p id="personText">
             </p>
         </div>
-        <p id="personCoords"></p>
+        <p id="personCoords" class="empty"></p>
+
+        <a id="personOpenBtn"></a>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
 
     <script src="script.js"></script>
-
-
+    <script src="../!general/scripts/general.js"></script>
 
 </body>
 
