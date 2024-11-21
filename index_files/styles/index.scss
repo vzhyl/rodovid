@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap');
+$prime: #a50000;
+$dark: #000;
+$light: #fff;
+* {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    scroll-behavior: smooth;
+}
+
+@media screen and (min-width: 850px) {
+    body {
+        main {
+            position: absolute;
+            width: 100%;
+            height: calc(100% - 70px);
+            top: 70px;
+            left: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            h2,
+            p {
+                margin-left: 15%;
+                line-height: 25px;
+            }
+            #contactLink {
+                position: absolute;
+                bottom: 25px;
+                right: 25px;
+                padding: 15px 35px;
+                color: $light;
+                text-decoration: none;
+                background-color: $prime;
+                border-radius: 25px;
+                transition: all 250ms ease-in-out;
+                &:hover {
+                    padding: 15px 40px;
+                }
+            }
+        }
+        #contact {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            height: 50%;
+            width: 100%;
+            background-color: $dark;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            h1 {
+                color: $light;
+                margin-left: 10%;
+            }
+            div {
+                border-left: 3px solid $prime;
+                padding-left: 15px;
+                display: flex;
+                flex-direction: column;
+                margin-left: 100px;
+                a {
+                    color: $light;
+                    text-decoration: none;
+                    margin: 10px;
+                    span {
+                        margin-right: 10px
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 849px) {
+    main {
+        position: absolute;
+        width: 100%;
+        height: calc(100% - 70px);
+        top: 70px;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        h2,
+        p {
+            line-height: 25px;
+            text-align: center;
+            width: 70%;
+        }
+        #contactLink {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100vw;
+            height: 50px;
+            color: $light;
+            text-decoration: none;
+            background-color: $prime;
+            transition: all 250ms ease-in-out;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    #contact {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        height: fit-content;
+        width: 100vw;
+        background-color: $dark;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        h1 {
+            color: $light;
+            margin-top: 10vh;
+        }
+        div {
+            border-top: 3px solid $prime;
+            padding-top: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 5vh 0;
+            a {
+                color: $light;
+                text-decoration: none;
+                margin: 10px;
+                text-align: center;
+                span {
+                    margin-right: 10px
+                }
+            }
+        }
+    }
+}
