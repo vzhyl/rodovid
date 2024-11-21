@@ -102,6 +102,7 @@
     justify-content: center;
     transition: all 250ms ease-in-out;
     z-index: 100;
+    visibility: hidden;
   }
   body nav #navLinks a {
     color: #fff;
@@ -115,6 +116,7 @@
   }
   body nav #navLinks.open {
     right: 0;
+    visibility: visible;
   }
   body nav #burgerBtn {
     height: 30px;
