@@ -154,9 +154,8 @@ $light: #fff;
         position: relative;
         overflow-x: hidden;
         #search {
-            margin-top: 25vh;
+            margin-top: 125px;
             #searchInput {
-                width: 100%;
                 text-align: center;
                 #searchBar {
                     position: fixed;
@@ -179,10 +178,11 @@ $light: #fff;
             }
             #resList {
                 margin: 10% 5% 25% 5%;
-                width: 85%;
+                width: fit-content;
                 transition: all 250ms ease-in-out;
                 .resObj {
-                    padding: 15px 2.5%;
+                    padding: 15px 25px 15% 5px;
+                    margin: 15% 0;
                     &:not(:last-child) {
                         border-bottom: 2px solid $prime;
                     }
@@ -217,19 +217,22 @@ $light: #fff;
             visibility: hidden;
             opacity: 0;
             transition: all 500ms ease-in-out;
+            p {
+                font-family: 'Times New Roman', Times, serif;
+            }
             img {
                 width: 100%;
             }
         }
         #backBtn {
             position: fixed;
-            left: -25%;
-            top: 150px;
+            right: -50%;
+            bottom: 75px;
             transition: all 250ms ease-in-out;
             background-color: $prime;
             border: 0;
-            border-radius: 0 50px 50px 0;
-            padding: 5px 10px 5px 5px;
+            border-radius: 50px 0 0 50px;
+            padding: 15px 35px 15px 35px;
             color: $light;
         }
         &.open {
@@ -238,7 +241,7 @@ $light: #fff;
                 opacity: 1;
             }
             #backBtn {
-                left: 0px;
+                right: 0px;
             }
         }
     }

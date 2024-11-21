@@ -150,10 +150,9 @@
     overflow-x: hidden;
   }
   body #search {
-    margin-top: 25vh;
+    margin-top: 125px;
   }
   body #search #searchInput {
-    width: 100%;
     text-align: center;
   }
   body #search #searchInput #searchBar {
@@ -180,11 +179,13 @@
   }
   body #search #resList {
     margin: 10% 5% 25% 5%;
-    width: 85%;
+    width: -moz-fit-content;
+    width: fit-content;
     transition: all 250ms ease-in-out;
   }
   body #search #resList .resObj {
-    padding: 15px 2.5%;
+    padding: 15px 25px 15% 5px;
+    margin: 15% 0;
   }
   body #search #resList .resObj:not(:last-child) {
     border-bottom: 2px solid #a50000;
@@ -216,18 +217,21 @@
     opacity: 0;
     transition: all 500ms ease-in-out;
   }
+  body #textOutput p {
+    font-family: "Times New Roman", Times, serif;
+  }
   body #textOutput img {
     width: 100%;
   }
   body #backBtn {
     position: fixed;
-    left: -25%;
-    top: 150px;
+    right: -50%;
+    bottom: 75px;
     transition: all 250ms ease-in-out;
     background-color: #a50000;
     border: 0;
-    border-radius: 0 50px 50px 0;
-    padding: 5px 10px 5px 5px;
+    border-radius: 50px 0 0 50px;
+    padding: 15px 35px 15px 35px;
     color: #fff;
   }
   body.open #textOutput {
@@ -235,6 +239,6 @@
     opacity: 1;
   }
   body.open #backBtn {
-    left: 0px;
+    right: 0px;
   }
 }/*# sourceMappingURL=style.css.map */
