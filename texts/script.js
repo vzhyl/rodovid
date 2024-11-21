@@ -59,6 +59,8 @@ function outputList(data, matchStr) {
 let mediaMatch = window.matchMedia("(min-width: 1100px)");
 
 function goToText(textLink) {
+    searchBar.value = "";
+
     fetch(textLink)
         .then((res) => res.text())
         .then((mdText) => {
@@ -75,7 +77,6 @@ function goToText(textLink) {
 }
 
 function goBackBtn() {
-
     document.body.classList.toggle("open");
     setTimeout(function() {
         outputObj.innerHTML = ""
