@@ -92,13 +92,14 @@ $light: #fff;
         }
         #contactLink {
             position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100vw;
+            bottom: 5%;
+            left: 10%;
+            width: 80%;
             height: 50px;
             color: $light;
             text-decoration: none;
             background-color: $prime;
+            border-radius: 50px;
             transition: all 250ms ease-in-out;
             display: flex;
             align-items: center;

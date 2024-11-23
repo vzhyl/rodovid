@@ -143,16 +143,23 @@ $light: #fff;
         left: 0;
         height: 50px;
         width: 100vw;
-        display: flex;
-        flex-direction: row;
         #searchBarInput {
-            background-color: $prime;
+            position: absolute;
+            left: 10%;
+            bottom: 10px;
+            width: calc(80% - 20px);
             border: 0;
-            width: 100%;
-            padding: 15px;
+            border-radius: 50px;
+            margin: 0;
+            padding: 10px;
+            background-color: $prime;
             color: $light;
+            z-index: 1;
+            transition: all 250ms ease-in-out;
             &:focus {
                 outline: 0;
+                left: 20%;
+                border-radius: 0 0 0 10px;
             }
             &::placeholder {
                 color: $light;
@@ -161,17 +168,19 @@ $light: #fff;
         }
         #searchList {
             position: fixed;
-            bottom: 50px;
-            padding: 0 5vw;
-            width: 90vw;
-            background-color: $light;
-            padding-top: 5%;
-            outline: 3px solid $prime;
-            visibility: hidden;
-            overflow-y: scroll;
+            bottom: 15px + 25px;
+            width: calc(80vw - 10% - 6px);
             height: 40vh;
+            padding: 0 5%;
+            background-color: $light;
+            outline: 3px solid $prime;
+            border-radius: 10px 0 0 0;
+            right: - 100%;
+            overflow-y: scroll;
+            overflow-x: hidden;
+            transition: all 250ms ease-in-out;
             &.open {
-                visibility: visible;
+                right: 4px;
             }
             p {
                 width: 100%;
@@ -204,26 +213,31 @@ $light: #fff;
     #map {
         position: fixed;
         width: 100vw;
-        height: calc(100vh - 50px - 70px);
-        bottom: 50px;
+        height: calc(100vh - 70px);
+        bottom: 0;
         left: 0;
+        z-index: 0;
         .leaflet-control-zoom {
             visibility: hidden;
+        }
+        .leaflet-bottom,
+        .leaflet-right {
+            display: none;
         }
     }
     #personWindow {
         position: absolute;
         width: 95vw;
-        height: calc(100% - 50px - 70px);
+        height: calc(100% - 70px - 25px);
         top: 70px;
         left: -100vw;
-        padding-left: 5vw;
+        padding-left: 5%;
         padding-top: 25px;
         transition: all 250ms ease-in-out;
         background-color: $light;
         display: flex;
         flex-direction: column;
-        overflow: hidden;
+        z-index: 2;
         #personName {
             margin: 0;
             color: $prime;

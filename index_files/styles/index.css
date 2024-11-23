@@ -87,13 +87,14 @@
   }
   main #contactLink {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100vw;
+    bottom: 5%;
+    left: 10%;
+    width: 80%;
     height: 50px;
     color: #fff;
     text-decoration: none;
     background-color: #a50000;
+    border-radius: 50px;
     transition: all 250ms ease-in-out;
     display: flex;
     align-items: center;

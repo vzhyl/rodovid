@@ -37,7 +37,7 @@ parseExcel = function(file) {
 
 //Map setup
 
-var map = L.map('map').setView([48.701782, 30.574288], 6);
+var map = L.map('map').setView([48.701782, 30.574288], 4);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 22,
@@ -107,6 +107,7 @@ function markerClick(e, person) {
 
 function writePersonToWindow(person) {
     document.getElementById("personCoords").classList.remove("empty");
+    searchBar.value = "";
     var x = person["Координати"].slice(0, 8);
     var y = person["Координати"].slice(11, 20);
     map.flyTo([x, y], 18)
@@ -120,5 +121,6 @@ function writePersonToWindow(person) {
 const openPersonWindowBtn = document.querySelector("#personOpenBtn");
 
 openPersonWindowBtn.addEventListener("click", () => {
-    document.querySelector("#personWindow").classList.toggle("open")
+    document.querySelector("#personWindow").classList.toggle("open");
+
 })
