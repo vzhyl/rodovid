@@ -188,7 +188,7 @@
     transition: all 250ms ease-in-out;
   }
   #searchBar #searchList.open {
-    right: 4px;
+    right: 3px;
   }
   #searchBar #searchList p {
     width: 100%;

@@ -158,17 +158,20 @@
   }
   body #search #searchInput #searchBar {
     position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 50px;
-    padding: 0 10px;
-    background-color: #a50000;
+    left: 10%;
+    bottom: 10px;
+    width: calc(80% - 20px);
     border: 0;
+    border-radius: 50px;
+    margin: 0;
+    padding: 10px;
+    background-color: #a50000;
     color: #fff;
+    transition: all 250ms ease-in-out;
   }
   body #search #searchInput #searchBar:focus {
     outline: 0;
+    bottom: 15px;
   }
   body #search #searchInput #searchBar::-moz-placeholder {
     color: #fff;
