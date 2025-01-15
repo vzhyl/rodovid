@@ -11,11 +11,11 @@
 2 CORP MyHeritage.com
 1 SUBM @U1@
 1 DEST MYHERITAGE
-1 DATE 13 JAN 2025
-2 TIME 13:53:17 
+1 DATE 15 JAN 2025
+2 TIME 16:51:16 
 2 _TIMEZONE GMT+1
-1 FILE Родовід станом на 14:51 (за Києвом) 13 січня 2025 року
-1 _RINS I982,F380,N39,M0,R0,S0,U1,L0,P279,Q0,IF1517,FF382
+1 FILE Родовід станом на 16:50 (UTC+1) 15.01.2025 
+1 _RINS I1003,F391,N48,M0,R0,S0,U1,L0,P279,Q0,IF1560,FF393
 1 _UID 6BDB086B-5WER-01Q1-0181-0181W6EK8H65
 1 _PROJECT_GUID 6BDB086B-5WER-01Q1-0181-0181W6EK8H65
 1 _EXPORTED_FROM_SITE_ID 1646671570
@@ -64,7 +64,7 @@
 1 OBJE
 2 FORM png
 2 TITL Жилочкін Геннадій Миколайович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P13_539_673.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P13_539_673.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 21 5 517 667
@@ -72,7 +72,7 @@
 2 _FILESIZE 292913
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P14_496_662.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P14_496_662.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P14
@@ -102,7 +102,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Жилочкіна (Кривич) Єлизавета Данилівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P15_2550_3507.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P15_2550_3507.jpg
 2 _DATE 1953
 2 _PLACE м. Київ 
 2 _PRIM Y
@@ -112,7 +112,7 @@
 2 _FILESIZE 793832
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P16_2538_3385.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P16_2538_3385.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P16
@@ -157,7 +157,7 @@
 1 OBJE
 2 FORM png
 2 TITL Жилочкіна Марія Олександрівна померла
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P172_2100_3000.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P172_2100_3000.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1161 428 1711 1161
@@ -165,7 +165,7 @@
 2 _FILESIZE 5500971
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P176_550_733.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P176_550_733.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P176
@@ -221,7 +221,7 @@
 1 OBJE
 2 FORM png
 2 TITL Кривич Данило Тарасович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P26_622_851.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P26_622_851.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 17 616 832
@@ -229,7 +229,7 @@
 2 _FILESIZE 505085
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P27_610_815.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P27_610_815.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P27
@@ -256,7 +256,7 @@
 1 OBJE
 2 FORM png
 2 TITL Кривич Афанасія Дем'янівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P28_1964_1393.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P28_1964_1393.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 13 46 950 1296
@@ -264,7 +264,7 @@
 2 _FILESIZE 2679626
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P30_937_1250.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P30_937_1250.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P30
@@ -332,7 +332,7 @@
 1 OBJE
 2 FORM png
 2 TITL Черепанова (Веселова) Світлана Володимирівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P269_1777_2144.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P269_1777_2144.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 88 5 1687 2138
@@ -340,7 +340,7 @@
 2 _FILESIZE 2755309
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P270_1598_2133.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P270_1598_2133.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P270
@@ -349,7 +349,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Черепанова Світлана Володимирівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P84_2048_1365.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P84_2048_1365.jpg
 2 _POSITION 516 5 1531 1359
 2 _PHOTO_RIN MH:P84
 2 _FILESIZE 153700
@@ -371,7 +371,7 @@
 1 OBJE
 2 FORM png
 2 TITL Черепанов Андрій Віталійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P267_1386_1863.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P267_1386_1863.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 14 1381 1849
@@ -379,7 +379,7 @@
 2 _FILESIZE 2542809
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P268_1376_1853.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P268_1376_1853.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P268
@@ -388,7 +388,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Черепанов Андрій Віталійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P75_521_521.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P75_521_521.jpg
 2 _POSITION 75 7 457 517
 2 _PHOTO_RIN MH:P75
 2 _FILESIZE 75075
@@ -409,7 +409,7 @@
 1 OBJE
 2 FORM png
 2 TITL Черепанов Дмитро Андрійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P271_1408_1878.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P271_1408_1878.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 7 1403 1871
@@ -417,7 +417,7 @@
 2 _FILESIZE 2466897
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P272_1398_1868.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P272_1398_1868.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P272
@@ -426,7 +426,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Діти
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P86_2048_1536.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P86_2048_1536.jpg
 2 _POSITION 869 6 1390 700
 2 _PHOTO_RIN MH:P86
 2 _FILESIZE 374776
@@ -447,7 +447,7 @@
 1 OBJE
 2 FORM png
 2 TITL Черепанов Денис Андрійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P273_1406_1891.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P273_1406_1891.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 14 1401 1877
@@ -455,7 +455,7 @@
 2 _FILESIZE 2430822
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P274_1396_1881.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P274_1396_1881.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P274
@@ -464,7 +464,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Діти
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P86_2048_1536.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P86_2048_1536.jpg
 2 _POSITION 1365 233 1851 882
 2 _PHOTO_RIN MH:P86
 2 _FILESIZE 374776
@@ -491,7 +491,7 @@
 1 OBJE
 2 FORM png
 2 TITL Поважук Георгій Олександрович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P17_2000_1535.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P17_2000_1535.png
 2 _DATE 1949
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
@@ -500,7 +500,7 @@
 2 _FILESIZE 3405197
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P19_818_1090.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P19_818_1090.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P19
@@ -530,7 +530,7 @@
 1 OBJE
 2 FORM png
 2 TITL Онода Лідія Іванівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P20_2000_1236.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P20_2000_1236.png
 2 _DATE 1949
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
@@ -539,7 +539,7 @@
 2 _FILESIZE 2215826
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P22_785_1045.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P22_785_1045.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P22
@@ -563,7 +563,7 @@
 1 OBJE
 2 FORM png
 2 TITL Жилочкін Олексій Миколайович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P169_2000_1428.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P169_2000_1428.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 108 108 912 1179
@@ -571,7 +571,7 @@
 2 _FILESIZE 2587019
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P171_804_1071.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P171_804_1071.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P171
@@ -595,7 +595,7 @@
 1 OBJE
 2 FORM png
 2 TITL Жилочкіна Марія Олександрівна померла
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P172_2100_3000.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P172_2100_3000.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 128 200 645 889
@@ -603,7 +603,7 @@
 2 _FILESIZE 5500971
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P174_517_689.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P174_517_689.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P174
@@ -677,7 +677,7 @@
 1 OBJE
 2 FORM png
 2 TITL Кривич Анатолій Данилович профіль
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P152_595_874.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P152_595_874.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 6 5 590 785
@@ -685,7 +685,7 @@
 2 _FILESIZE 556997
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P154_584_780.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P154_584_780.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P154
@@ -710,7 +710,7 @@
 1 OBJE
 2 FORM png
 2 TITL Леонід 2
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P155_1936_1417.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P155_1936_1417.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 47 39 913 1194
@@ -718,7 +718,7 @@
 2 _FILESIZE 2799784
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P157_866_1155.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P157_866_1155.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P157
@@ -744,7 +744,7 @@
 1 OBJE
 2 FORM png
 2 TITL Кривич Олександр Данилович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P158_972_1403.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P158_972_1403.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 158 94 488 533
@@ -752,7 +752,7 @@
 2 _FILESIZE 1447565
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P160_330_439.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P160_330_439.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P160
@@ -827,7 +827,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Гуйда Оксана
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P166_1356_2048.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P166_1356_2048.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 4 23 1347 1813
@@ -835,7 +835,7 @@
 2 _FILESIZE 551522
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P168_1343_1790.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P168_1343_1790.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P168
@@ -863,7 +863,7 @@
 1 OBJE
 2 FORM png
 2 TITL Поважук Олександр Юхимович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P31_311_794.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P31_311_794.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 19 17 294 384
@@ -871,7 +871,7 @@
 2 _FILESIZE 489679
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P33_275_371.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P33_275_371.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P33
@@ -1012,7 +1012,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Жилочкін Олександр Максимович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P93_1280_853.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P93_1280_853.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 324 5 955 847
@@ -1020,7 +1020,7 @@
 2 _FILESIZE 71164
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P94_630_842.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P94_630_842.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P94
@@ -1057,7 +1057,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Діти
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P86_2048_1536.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P86_2048_1536.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 308 364 795 1013
@@ -1065,7 +1065,7 @@
 2 _FILESIZE 374776
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P92_489_649.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P92_489_649.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P92
@@ -1141,7 +1141,7 @@
 1 OBJE
 2 FORM png
 2 TITL Фотографія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P122_1300_1616.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P122_1300_1616.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 284 230 1002 1188
@@ -1149,7 +1149,7 @@
 2 _FILESIZE 1878161
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P125_718_958.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P125_718_958.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P125
@@ -1178,7 +1178,7 @@
 1 OBJE
 2 FORM png
 2 TITL Онода (Приходько) Ольга Порфирівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P34_1669_2266.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P34_1669_2266.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 222 244 1366 1769
@@ -1186,7 +1186,7 @@
 2 _FILESIZE 2191475
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P36_1144_1525.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P36_1144_1525.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P36
@@ -1367,6 +1367,8 @@
 2 PLAC Приходське кладовище
 1 FAMS @F25@
 1 FAMC @F26@
+1 NOTE <p>Можливо,&nbsp;отримав прізвище свого тестя Митяя, коли&nbsp;переїхав з іншого села (ймовірно, Локні). Але прізвищ�
+2 CONC � Онода збереглося у нащадків.</p>
 0 @I54@ INDI
 1 RIN MH:I54
 1 _UID 65ed7609a6f501eebef5ada03bc09b36
@@ -1451,7 +1453,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Могила Онода Анатолій Іванович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P98_600_450.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P98_600_450.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 209 -6 420 274
@@ -1459,7 +1461,7 @@
 2 _FILESIZE 57540
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P100_211_280.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P100_211_280.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P100
@@ -1489,7 +1491,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Могила Онода (Бурякова) Ніна Іванівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P101_600_450.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P101_600_450.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 247 29 406 241
@@ -1497,7 +1499,7 @@
 2 _FILESIZE 58301
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P103_159_212.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P103_159_212.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P103
@@ -1526,7 +1528,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Веселов Микола Полікарпович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P184_413_531.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P184_413_531.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 16 15 374 493
@@ -1534,7 +1536,7 @@
 2 _FILESIZE 170590
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P186_358_478.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P186_358_478.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P186
@@ -1564,7 +1566,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Веселова Марія Василівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P187_2394_3262.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P187_2394_3262.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 42 2388 3219
@@ -1572,7 +1574,7 @@
 2 _FILESIZE 4496815
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P188_2382_3177.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P188_2382_3177.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P188
@@ -1597,7 +1599,7 @@
 1 OBJE
 2 FORM png
 2 TITL Петров Василь Іванович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P147_1544_2046.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P147_1544_2046.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 383 11 1179 1072
@@ -1605,7 +1607,7 @@
 2 _FILESIZE 3343816
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P149_796_1061.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P149_796_1061.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P149
@@ -1653,7 +1655,7 @@
 1 OBJE
 2 FORM png
 2 TITL Петрова Анна Андріївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P45_347_395.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P45_347_395.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 29 5 316 389
@@ -1661,7 +1663,7 @@
 2 _FILESIZE 133060
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P46_286_384.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P46_286_384.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P46
@@ -1703,7 +1705,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Могила Полікарпа Філатовича Косицького і сина Аникія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P229_2592_5760.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P229_2592_5760.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1 800 1610 2944
@@ -1711,7 +1713,7 @@
 2 _FILESIZE 8915011
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P231_1611_2144.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P231_1611_2144.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P231
@@ -1740,7 +1742,7 @@
 1 OBJE
 2 FORM png
 2 TITL Косицька (Веселова) Мотрона Моїсеївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P235_2592_5760.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P235_2592_5760.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 448 1237 2016 3328
@@ -1748,7 +1750,7 @@
 2 _FILESIZE 5743188
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P237_1568_2091.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P237_1568_2091.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P237
@@ -1860,7 +1862,7 @@
 1 OBJE
 2 FORM png
 2 TITL Міняйло Григорій Андрійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P47_1224_1759.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P47_1224_1759.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 70 1218 1687
@@ -1868,7 +1870,7 @@
 2 _FILESIZE 1917352
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P48_1212_1617.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P48_1212_1617.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P48
@@ -1893,7 +1895,7 @@
 1 OBJE
 2 FORM png
 2 TITL Міняйло (Гоцуляк) Марія Федорівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P49_2551_3800.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P49_2551_3800.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 206 2545 3593
@@ -1901,7 +1903,7 @@
 2 _FILESIZE 7784146
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P50_2540_3387.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P50_2540_3387.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P50
@@ -1930,7 +1932,7 @@
 1 OBJE
 2 FORM png
 2 TITL Міняйло Андрій Варфоломійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P60_1838_3237.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P60_1838_3237.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 72 240 1673 2374
@@ -1938,7 +1940,7 @@
 2 _FILESIZE 4453391
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P62_1601_2134.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P62_1601_2134.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P62
@@ -1966,7 +1968,7 @@
 1 OBJE
 2 FORM png
 2 TITL Міняйло Анастасія Євсеївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P63_2316_2838.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P63_2316_2838.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 97 5 2217 2832
@@ -1974,7 +1976,7 @@
 2 _FILESIZE 5672294
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P64_2120_2827.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P64_2120_2827.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P64
@@ -1995,6 +1997,7 @@
 2 _UID 65fb6943f4f391eebef6a6c7973d8778
 2 RIN MH:IF151
 1 FAMS @F37@
+1 FAMC @F381@
 0 @I78@ INDI
 1 RIN MH:I78
 1 _UID 65fb69453faf41eebef6a6c7973d8778
@@ -2050,7 +2053,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Гоцуляк Федір Сидорович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P51_1108_1532.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P51_1108_1532.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 34 1102 1497
@@ -2058,7 +2061,7 @@
 2 _FILESIZE 626232
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P52_1096_1463.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P52_1096_1463.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P52
@@ -2087,7 +2090,7 @@
 1 OBJE
 2 FORM png
 2 TITL Гоцуляк Акулина Іванівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P57_1844_4000.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P57_1844_4000.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 504 994 1230 1962
@@ -2095,7 +2098,7 @@
 2 _FILESIZE 8083376
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P59_726_970.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P59_726_970.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P59
@@ -2280,7 +2283,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Гоцуляк Сава Сидорович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P67_1439_2510.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P67_1439_2510.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION -14 29 1413 1933
@@ -2288,7 +2291,7 @@
 2 _FILESIZE 216254
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P69_1427_1906.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P69_1427_1906.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P69
@@ -2658,7 +2661,7 @@
 1 OBJE
 2 FORM png
 2 TITL Поважук Галина Георгіївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P81_1019_660.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P81_1019_660.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 427 57 581 263
@@ -2666,7 +2669,7 @@
 2 _FILESIZE 1412379
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P83_154_208.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P83_154_208.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P83
@@ -2685,7 +2688,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Поважук Сергій Борисович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P70_324_430.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P70_324_430.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 5 319 425
@@ -2693,7 +2696,7 @@
 2 _FILESIZE 23504
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P71_314_420.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P71_314_420.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P71
@@ -2730,7 +2733,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Поважук Віктор Сергійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P72_672_1008.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P72_672_1008.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 211 78 603 601
@@ -2738,7 +2741,7 @@
 2 _FILESIZE 400477
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P74_392_523.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P74_392_523.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P74
@@ -2857,7 +2860,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Черепанова Євгенія Наумівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P95_960_960.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P95_960_960.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 434 468 637 738
@@ -2865,7 +2868,7 @@
 2 _FILESIZE 163610
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P97_203_270.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P97_203_270.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P97
@@ -2887,7 +2890,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Сім'я Олексія Поважука фотосесія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P244_960_638.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P244_960_638.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 502 182 627 350
@@ -2895,7 +2898,7 @@
 2 _FILESIZE 80539
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P246_125_168.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P246_125_168.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P246
@@ -2917,7 +2920,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Данило Гульченко і Вікторія Кардас
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P248_2400_3600.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P248_2400_3600.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 667 667 1127 1280
@@ -2925,7 +2928,7 @@
 2 _FILESIZE 1139279
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P250_460_613.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P250_460_613.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P250
@@ -2934,7 +2937,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Сім'я Олексія Поважука фотосесія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P244_960_638.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P244_960_638.jpg
 2 _POSITION 614 222 713 353
 2 _PHOTO_RIN MH:P244
 2 _FILESIZE 80539
@@ -3008,7 +3011,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL 1
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P104_578_1280.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P104_578_1280.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 216 559 337 720
@@ -3016,7 +3019,7 @@
 2 _FILESIZE 129831
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P106_121_161.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P106_121_161.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P106
@@ -3060,7 +3063,7 @@
 1 OBJE
 2 FORM png
 2 TITL 2
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P107_6680_4119.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P107_6680_4119.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 2932 511 5176 3501
@@ -3068,7 +3071,7 @@
 2 _FILESIZE 24312531
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P111_2250_2990.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P111_2250_2990.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P111
@@ -3091,7 +3094,7 @@
 1 OBJE
 2 FORM png
 2 TITL 2
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P107_6680_4119.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P107_6680_4119.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 816 572 3066 3570
@@ -3099,7 +3102,7 @@
 2 _FILESIZE 24312531
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P109_2250_2998.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P109_2250_2998.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P109
@@ -3171,7 +3174,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Вся родина
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P209_5100_7014.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P209_5100_7014.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 3290 2663 3866 3429
@@ -3179,7 +3182,7 @@
 2 _FILESIZE 1680608
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P213_584_766.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P213_584_766.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P213
@@ -3203,7 +3206,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Вся родина
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P209_5100_7014.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P209_5100_7014.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 3858 2684 4430 3447
@@ -3211,7 +3214,7 @@
 2 _FILESIZE 1680608
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P211_572_779.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P211_572_779.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P211
@@ -3233,7 +3236,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Вороніч
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P112_1440_1434.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P112_1440_1434.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 790 449 1441 1315
@@ -3241,7 +3244,7 @@
 2 _FILESIZE 396686
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P118_653_866.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P118_653_866.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P118
@@ -3263,7 +3266,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Коля з дружиною
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P217_2048_1536.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P217_2048_1536.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 501 299 1184 1209
@@ -3271,7 +3274,7 @@
 2 _FILESIZE 1038699
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P219_683_910.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P219_683_910.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P219
@@ -3293,7 +3296,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Маргарита
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P220_959_960.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P220_959_960.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 270 23 690 583
@@ -3301,7 +3304,7 @@
 2 _FILESIZE 108011
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P222_420_560.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P222_420_560.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P222
@@ -3323,7 +3326,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Елеонора
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P223_1072_1440.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P223_1072_1440.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 384 507 672 891
@@ -3331,7 +3334,7 @@
 2 _FILESIZE 127247
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P225_288_384.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P225_288_384.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P225
@@ -3576,7 +3579,7 @@
 1 OBJE
 2 FORM png
 2 TITL 4
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P232_5490_4212.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P232_5490_4212.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 4204 733 4906 1669
@@ -3584,7 +3587,7 @@
 2 _FILESIZE 19906850
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P234_702_936.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P234_702_936.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P234
@@ -4258,7 +4261,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Седлецька Таїсія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P226_960_960.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P226_960_960.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 507 142 847 595
@@ -4266,7 +4269,7 @@
 2 _FILESIZE 165745
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P228_340_453.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P228_340_453.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P228
@@ -4291,7 +4294,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Дуня Полторакіна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P189_2664_5920.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P189_2664_5920.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 465 987 2012 3048
@@ -4299,7 +4302,7 @@
 2 _FILESIZE 5928909
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P191_1557_2061.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P191_1557_2061.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P191
@@ -5267,7 +5270,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Карта
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P126_2784_2080.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P126_2784_2080.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 124 143 1266 1664
@@ -5275,7 +5278,7 @@
 2 _FILESIZE 3187828
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P128_1144_1521.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P128_1144_1521.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P128
@@ -5546,7 +5549,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Флюнт Андрій
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P132_1280_853.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P132_1280_853.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 117 2 746 842
@@ -5554,7 +5557,7 @@
 2 _FILESIZE 89536
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P134_629_840.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P134_629_840.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P134
@@ -5579,7 +5582,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Флюнт Ольга
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P129_365_365.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P129_365_365.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 48 2 294 331
@@ -5587,7 +5590,7 @@
 2 _FILESIZE 18855
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P131_246_329.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P131_246_329.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P131
@@ -5639,7 +5642,7 @@
 0 @I313@ INDI
 1 RIN MH:I313
 1 _UID 66481ba4690311efbef8c0b5acbedd76
-1 _UPD 2 JAN 2025 21:43:25 GMT+1
+1 _UPD 14 JAN 2025 22:21:29 GMT+1
 1 NAME Богдан /Флюнт/
 2 GIVN Богдан
 2 SURN Флюнт
@@ -5647,12 +5650,15 @@
 1 BIRT
 2 _UID 66481ba8690311efbef8c0b5acbedd76
 2 RIN MH:IF476
-2 DATE 19 AUG 1918
+2 DATE 17 AUG 1918
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
 1 DEAT
 2 _UID 6776f93878a0f1efbf05c0ecfda42f87
 2 RIN MH:IF1087
 1 FAMS @F126@
 1 FAMC @F301@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:3QHJ-L7MT-374V?view=explore&amp;groupId=TH-7749-135685-7751-43">https://www.familysearch.org/ark:/61903/3:1:3QHJ-L7MT-374V
+2 CONC ?view=explore&amp;groupId=TH-7749-135685-7751-43</a><br />Школа: <a href="https://polska1926.pl/podpisy/35031">https://polska1926.pl/podpisy/35031</a></p>
 0 @I314@ INDI
 1 RIN MH:I314
 1 _UID 66481bbc13c341efbef8c0b5acbedd76
@@ -5713,7 +5719,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Флюнт Вікторія
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P135_659_675.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P135_659_675.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 235 -4 559 427
@@ -5721,7 +5727,7 @@
 2 _FILESIZE 65555
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P138_324_431.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P138_324_431.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P138
@@ -6318,7 +6324,7 @@
 1 OBJE
 2 FORM png
 2 TITL Черепанова Катерина Андріївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P141_1844_4000.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P141_1844_4000.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 134 704 1658 2734
@@ -6326,7 +6332,7 @@
 2 _FILESIZE 5379727
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P143_1526_2030.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P143_1526_2030.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P143
@@ -6349,7 +6355,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Віктор Воронич
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P206_1215_2160.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P206_1215_2160.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 420 316 744 748
@@ -6357,7 +6363,7 @@
 2 _FILESIZE 508269
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P208_324_432.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P208_324_432.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P208
@@ -6380,7 +6386,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Воронич Катерина
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P214_240_240.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P214_240_240.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 78 0 161 110
@@ -6388,7 +6394,7 @@
 2 _FILESIZE 14627
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P216_83_110.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P216_83_110.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P216
@@ -6412,7 +6418,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Сергій Мулєндєєв
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P199_2560_1707.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P199_2560_1707.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 695 102 1103 647
@@ -6420,7 +6426,7 @@
 2 _FILESIZE 674111
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P203_408_547.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P203_408_547.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P203
@@ -6442,7 +6448,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Сергій Мулєндєєв
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P199_2560_1707.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P199_2560_1707.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1465 155 1820 626
@@ -6450,7 +6456,7 @@
 2 _FILESIZE 674111
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P201_357_471.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P201_357_471.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P201
@@ -6471,7 +6477,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Сергій Мулєндєєв
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P199_2560_1707.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P199_2560_1707.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1256 313 1548 702
@@ -6479,7 +6485,7 @@
 2 _FILESIZE 674111
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P205_294_389.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P205_294_389.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P205
@@ -7464,7 +7470,7 @@
 1 OBJE
 2 FORM png
 2 TITL Кривич Олександр Данилович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P158_972_1403.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P158_972_1403.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 465 128 751 511
@@ -7472,7 +7478,7 @@
 2 _FILESIZE 1447565
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P163_286_385.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P163_286_385.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P163
@@ -7508,7 +7514,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Брат
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P164_1361_1815.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P164_1361_1815.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 6 1356 1809
@@ -7516,7 +7522,7 @@
 2 _FILESIZE 309067
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P165_1350_1805.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P165_1350_1805.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P165
@@ -10293,7 +10299,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Косицький Василь Авакуумович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P181_886_886.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P181_886_886.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 242 5 645 542
@@ -10301,7 +10307,7 @@
 2 _FILESIZE 69399
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P183_405_537.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P183_405_537.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P183
@@ -10964,7 +10970,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Заславська Віолетта
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P238_1396_2048.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P238_1396_2048.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 42 11 1362 1771
@@ -10972,7 +10978,7 @@
 2 _FILESIZE 313452
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P240_1320_1760.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P240_1320_1760.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P240
@@ -11004,7 +11010,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Данило Гульченко і Вікторія Кардас
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P248_2400_3600.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P248_2400_3600.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1080 767 1500 1327
@@ -11012,7 +11018,7 @@
 2 _FILESIZE 1139279
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P252_420_560.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P252_420_560.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P252
@@ -11034,7 +11040,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Гульченко Тетяна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P241_851_850.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P241_851_850.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 450 118 688 436
@@ -11042,7 +11048,7 @@
 2 _FILESIZE 126098
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P243_238_318.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P243_238_318.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P243
@@ -11118,7 +11124,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Мосієнко Юлія і син Микита
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P253_578_1280.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P253_578_1280.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 114 292 313 555
@@ -11126,7 +11132,7 @@
 2 _FILESIZE 127556
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P256_199_263.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P256_199_263.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P256
@@ -11240,7 +11246,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Мосієнко Юлія і син Микита
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P253_578_1280.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P253_578_1280.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 266 299 416 498
@@ -11248,7 +11254,7 @@
 2 _FILESIZE 127556
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P258_152_199.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P258_152_199.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P258
@@ -11289,7 +11295,7 @@
 1 OBJE
 2 FORM png
 2 TITL Міняйло Анастасія Андріївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P259_2763_4205.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P259_2763_4205.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 202 374 2375 3271
@@ -11297,7 +11303,7 @@
 2 _FILESIZE 9405908
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P261_2173_2897.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P261_2173_2897.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P261
@@ -11380,7 +11386,7 @@
 1 OBJE
 2 FORM png
 2 TITL Садловські Василь і Катерина
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P262_2517_1806.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P262_2517_1806.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 1171 47 2121 1315
@@ -11388,7 +11394,7 @@
 2 _FILESIZE 4850789
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P264_950_1268.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P264_950_1268.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P264
@@ -11416,7 +11422,7 @@
 1 OBJE
 2 FORM png
 2 TITL Садловські Василь і Катерина
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P262_2517_1806.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P262_2517_1806.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 398 40 1358 1321
@@ -11424,7 +11430,7 @@
 2 _FILESIZE 4850789
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P266_960_1281.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P266_960_1281.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P266
@@ -11547,7 +11553,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Михайло Чаплига малюнок
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P275_640_640.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P275_640_640.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 84 5 555 634
@@ -11555,7 +11561,7 @@
 2 _FILESIZE 105339
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P276_470_629.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P276_470_629.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P276
@@ -11756,7 +11762,7 @@
 0 @I768@ INDI
 1 RIN MH:I768
 1 _UID 6776f91678a0f1efbf05c0ecfda42f87
-1 _UPD 3 JAN 2025 16:36:12 GMT+1
+1 _UPD 14 JAN 2025 23:05:05 GMT+1
 1 NAME Михайло /Флюнт/
 2 GIVN Михайло
 2 SURN Флюнт
@@ -11764,8 +11770,17 @@
 1 BIRT
 2 _UID 6776f92078a0f1efbf05c0ecfda42f87
 2 RIN MH:IF1086
+2 DATE 22 NOV 1886
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6786df1a4e8021efbf05c0ecfda42f87
+2 RIN MH:IF1528
 1 FAMS @F301@
 1 FAMC @F308@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-9RS9-2YB?view=explore&amp;groupId=M9SX-M5Q">https://www.familysearch.org/ark:/61903/3:1:33S7-9RS9-2YB?view=explore&am
+2 CONC p;groupId=M9SX-M5Q</a></p>
+2 CONT <p>Шлюб: <a href="https://www.familysearch.org/ark:/61903/3:1:3QHK-WQ5V-SW4P?view=explore&amp;groupId=TH-7722-129901-1784-49">https://www.familysearch.org/ark:/61903/3:1:3QHK-WQ5V-SW4P?view=explor
+2 CONC e&amp;groupId=TH-7722-129901-1784-49</a></p>
 0 @I769@ INDI
 1 RIN MH:I769
 1 _UID 6776fa5778a0f1efbf05c0ecfda42f87
@@ -12015,18 +12030,24 @@
 0 @I786@ INDI
 1 RIN MH:I786
 1 _UID 67770d5078a0f1efbf05c0ecfda42f87
-1 _UPD 2 JAN 2025 23:04:06 GMT+1
-1 NAME Богдан /Флюнт/
-2 GIVN Богдан
+1 _UPD 15 JAN 2025 14:23:27 GMT+1
+1 NAME Степан /Флюнт/
+2 GIVN Степан
 2 SURN Флюнт
 1 SEX M
 1 BIRT
 2 _UID 67770d5678a0f1efbf05c0ecfda42f87
 2 RIN MH:IF1113
+2 DATE 8 APR 1861
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
 1 DEAT
 2 _UID 67770d56b3fc21efbf05c0ecfda42f87
 2 RIN MH:IF1114
 1 FAMS @F308@
+1 FAMC @F384@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ6-3Y6?view=explore&amp;groupId=M9SX-H8Z">https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ6-3Y6?view=explore&am
+2 CONC p;groupId=M9SX-H8Z</a><br />Шлюб: <a href="https://www.familysearch.org/ark:/61903/3:1:3QHJ-G7MT-3WFT?view=explore&amp;groupId=TH-7749-135685-7761-39">https://www.familysearch.org/ark:/61903/3:1:3
+2 CONC QHJ-G7MT-3WFT?view=explore&amp;groupId=TH-7749-135685-7761-39</a></p>
 0 @I787@ INDI
 1 RIN MH:I787
 1 _UID 67770d6c78a0f1efbf05c0ecfda42f87
@@ -12052,10 +12073,11 @@
 1 FAMS @F309@
 1 FAMS @F310@
 1 FAMC @F301@
+1 NOTE <p>Товариство "Сокіл": <a href="https://www.dziennikustaw.gov.pl/M1936073000000.pdf">https://www.dziennikustaw.gov.pl/M1936073000000.pdf</a></p>
 0 @I788@ INDI
 1 RIN MH:I788
 1 _UID 67770d8778a0f1efbf05c0ecfda42f87
-1 _UPD 2 JAN 2025 23:05:02 GMT+1
+1 _UPD 14 JAN 2025 22:21:51 GMT+1
 1 NAME Мирослава /Флюнт/
 2 GIVN Мирослава
 2 SURN Флюнт
@@ -12063,10 +12085,14 @@
 1 BIRT
 2 _UID 67770d8e78a0f1efbf05c0ecfda42f87
 2 RIN MH:IF1117
+2 DATE 17 AUG 1918
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
 1 DEAT
 2 _UID 67770d8eb3fc21efbf05c0ecfda42f87
 2 RIN MH:IF1118
 1 FAMC @F301@
+1 NOTE <p><a href="https://www.familysearch.org/ark:/61903/3:1:3QHJ-L7MT-374V?view=explore&amp;groupId=TH-7749-135685-7751-43">https://www.familysearch.org/ark:/61903/3:1:3QHJ-L7MT-374V?view=explore&amp;grou
+2 CONC pId=TH-7749-135685-7751-43</a></p>
 0 @I789@ INDI
 1 RIN MH:I789
 1 _UID 67770de9356851efbf05c0ecfda42f87
@@ -12169,7 +12195,7 @@
 0 @I795@ INDI
 1 RIN MH:I795
 1 _UID 677803e078a0f1efbf05c0ecfda42f87
-1 _UPD 3 JAN 2025 16:36:12 GMT+1
+1 _UPD 14 JAN 2025 23:05:30 GMT+1
 1 NAME Катерина /Кушнір/
 2 GIVN Катерина
 2 SURN Кушнір
@@ -12178,10 +12204,15 @@
 1 BIRT
 2 _UID 677803ec78a0f1efbf05c0ecfda42f87
 2 RIN MH:IF1129
+2 DATE 4 JUN 1887
+2 PLAC с. Тустановичі, повіт Дрогобич, Королівство Галичини та Володимирії
 1 DEAT
 2 _UID 677803ecb3fc21efbf05c0ecfda42f87
 2 RIN MH:IF1130
 1 FAMS @F301@
+1 FAMC @F383@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-9RSJ-DRT?view=explore&amp;groupId=M9SX-SMH">https://www.familysearch.org/ark:/61903/3:1:33S7-9RSJ-DRT?view=explore&am
+2 CONC p;groupId=M9SX-SMH</a></p>
 0 @I796@ INDI
 1 RIN MH:I796
 1 _UID 6778072078a0f1efbf05c0ecfda42f87
@@ -13182,7 +13213,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL image (1)
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P277_6235_4678.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P277_6235_4678.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 4386 1932 6173 4314
@@ -13190,7 +13221,7 @@
 2 _FILESIZE 1395460
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P279_1793_2382.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P279_1793_2382.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P279
@@ -15233,6 +15264,351 @@
 2 _UID 67850bff537fe1efbf05c0ecfda42f87
 2 RIN MH:IF1517
 1 FAMC @F322@
+0 @I983@ INDI
+1 RIN MH:I983
+1 _UID 678646771415b1efbf05c0ecfda42f87
+1 _UPD 14 JAN 2025 12:12:23 GMT+1
+1 NAME Кілька поколоніь родини Міняйлів //
+2 GIVN Кілька поколоніь родини Міняйлів
+1 SEX M
+1 BIRT
+2 _UID 678646871415b1efbf05c0ecfda42f87
+2 RIN MH:IF1518
+1 DEAT
+2 _UID 67864687df4961efbf05c0ecfda42f87
+2 RIN MH:IF1519
+2 DATE Приблизно 1870
+1 FAMS @F381@
+1 FAMC @F382@
+0 @I984@ INDI
+1 RIN MH:I984
+1 _UID 678647a51415b1efbf05c0ecfda42f87
+1 _UPD 14 JAN 2025 12:17:01 GMT+1
+1 NAME Йосип /Міняйло/
+2 GIVN Йосип
+2 SURN Міняйло
+1 SEX M
+1 BIRT
+2 _UID 678647ad1415b1efbf05c0ecfda42f87
+2 RIN MH:IF1520
+1 DEAT
+2 _UID 678647addf4961efbf05c0ecfda42f87
+2 RIN MH:IF1521
+1 FAMS @F382@
+0 @I985@ INDI
+1 RIN MH:I985
+1 _UID 6786d5954e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:35:01 GMT+1
+1 NAME Юлія /Кунцьо/
+2 GIVN Юлія
+2 SURN Кунцьо
+2 _MARNM Флюнт
+1 SEX F
+1 BIRT
+2 _UID 6786d5c14e8021efbf05c0ecfda42f87
+2 RIN MH:IF1522
+2 DATE 19 APR 1870
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6786d5c173e001efbf05c0ecfda42f87
+2 RIN MH:IF1523
+1 FAMS @F308@
+1 FAMC @F385@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-9RS9-LCT?view=explore&amp;groupId=M9SX-M5Q">https://www.familysearch.org/ark:/61903/3:1:33S7-9RS9-LCT?view=explore&am
+2 CONC p;groupId=M9SX-M5Q</a></p>
+0 @I986@ INDI
+1 RIN MH:I986
+1 _UID 6786d5e14e8021efbf05c0ecfda42f87
+1 _UPD 14 JAN 2025 22:24:27 GMT+1
+1 NAME Микола /Кушнір/
+2 GIVN Микола
+2 SURN Кушнір
+1 SEX M
+1 BIRT
+2 _UID 6786d5e44e8021efbf05c0ecfda42f87
+2 RIN MH:IF1524
+1 DEAT
+2 _UID 6786d5e473e001efbf05c0ecfda42f87
+2 RIN MH:IF1525
+1 FAMS @F383@
+1 FAMC @F386@
+0 @I987@ INDI
+1 RIN MH:I987
+1 _UID 6786d5f64e8021efbf05c0ecfda42f87
+1 _UPD 14 JAN 2025 22:24:27 GMT+1
+1 NAME Магдалина /Драган/
+2 GIVN Магдалина
+2 SURN Драган
+2 _MARNM Кушнір
+1 SEX F
+1 BIRT
+2 _UID 6786d60b4e8021efbf05c0ecfda42f87
+2 RIN MH:IF1526
+1 DEAT
+2 _UID 6786d60b73e001efbf05c0ecfda42f87
+2 RIN MH:IF1527
+1 FAMS @F383@
+1 FAMC @F387@
+0 @I988@ INDI
+1 RIN MH:I988
+1 _UID 6786e0c04e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 14:56:52 GMT+1
+1 NAME Андрій /Флюнт/
+2 GIVN Андрій
+2 SURN Флюнт
+1 SEX M
+1 BIRT
+2 _UID 6786e0e24e8021efbf05c0ecfda42f87
+2 RIN MH:IF1529
+2 DATE 7 DEC 1827
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6786e0e273e001efbf05c0ecfda42f87
+2 RIN MH:IF1530
+2 DATE 1890?
+1 FAMS @F384@
+1 FAMC @F390@
+1 NOTE <p>Народження: <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ6-QHJ?view=explore&amp;groupId=M9SX-H8H">https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ6-QHJ?view=explore&am
+2 CONC p;groupId=M9SX-H8H</a></p>
+0 @I989@ INDI
+1 RIN MH:I989
+1 _UID 6786e1294e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 14:47:35 GMT+1
+1 NAME Марія /Єнюта/
+2 GIVN Марія
+2 SURN Єнюта
+2 _MARNM Флюнт
+1 SEX F
+1 BIRT
+2 _UID 6786e1844e8021efbf05c0ecfda42f87
+2 RIN MH:IF1531
+2 DATE 05.1837
+2 PLAC с. Тустановичі, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6786e18473e001efbf05c0ecfda42f87
+2 RIN MH:IF1532
+1 FAMS @F384@
+1 FAMC @F391@
+0 @I990@ INDI
+1 RIN MH:I990
+1 _UID 6786e1a74e8021efbf05c0ecfda42f87
+1 _UPD 14 JAN 2025 23:14:41 GMT+1
+1 NAME Іван /Кунцьо/
+2 GIVN Іван
+2 SURN Кунцьо
+1 SEX M
+1 BIRT
+2 _UID 6786e1c04e8021efbf05c0ecfda42f87
+2 RIN MH:IF1533
+1 DEAT
+2 _UID 6786e1c073e001efbf05c0ecfda42f87
+2 RIN MH:IF1534
+1 FAMS @F385@
+1 FAMC @F388@
+0 @I991@ INDI
+1 RIN MH:I991
+1 _UID 6786e1c94e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:40:39 GMT+1
+1 NAME Катерина /Коссак/
+2 GIVN Катерина
+2 SURN Коссак
+2 _MARNM Кунцьо
+1 SEX F
+1 BIRT
+2 _UID 6786e1d14e8021efbf05c0ecfda42f87
+2 RIN MH:IF1535
+2 PLAC Лішнянське Передмістя, м. Дрогобич, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6786e1d173e001efbf05c0ecfda42f87
+2 RIN MH:IF1536
+1 FAMS @F385@
+1 FAMC @F389@
+0 @I992@ INDI
+1 RIN MH:I992
+1 _UID 6786edb04e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 00:06:01 GMT+1
+1 NAME Степан /Кушнір/
+2 GIVN Степан
+2 SURN Кушнір
+1 SEX M
+1 BIRT
+2 _UID 6786edb54e8021efbf05c0ecfda42f87
+2 RIN MH:IF1537
+1 DEAT
+2 _UID 6786edb573e001efbf05c0ecfda42f87
+2 RIN MH:IF1538
+1 FAMS @F386@
+0 @I993@ INDI
+1 RIN MH:I993
+1 _UID 6786edcb4e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 00:06:01 GMT+1
+1 NAME Анна /Фірман/
+2 GIVN Анна
+2 SURN Фірман
+2 _MARNM Кушнір
+1 SEX F
+1 BIRT
+2 _UID 6786edd94e8021efbf05c0ecfda42f87
+2 RIN MH:IF1539
+1 DEAT
+2 _UID 6786edd973e001efbf05c0ecfda42f87
+2 RIN MH:IF1540
+1 FAMS @F386@
+0 @I994@ INDI
+1 RIN MH:I994
+1 _UID 6786edeb4e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 00:06:55 GMT+1
+1 NAME Юрій /Драган/
+2 GIVN Юрій
+2 SURN Драган
+1 SEX M
+1 BIRT
+2 _UID 6786edef4e8021efbf05c0ecfda42f87
+2 RIN MH:IF1541
+1 DEAT
+2 _UID 6786edef73e001efbf05c0ecfda42f87
+2 RIN MH:IF1542
+1 FAMS @F387@
+0 @I995@ INDI
+1 RIN MH:I995
+1 _UID 6786edf34e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 00:50:56 GMT+1
+1 NAME Катерина //
+2 GIVN Катерина
+2 _MARNM Драган
+1 SEX F
+1 BIRT
+2 _UID 6786ee0f4e8021efbf05c0ecfda42f87
+2 RIN MH:IF1543
+1 DEAT
+2 _UID 6786ee0f73e001efbf05c0ecfda42f87
+2 RIN MH:IF1544
+1 FAMS @F387@
+0 @I996@ INDI
+1 RIN MH:I996
+1 _UID 6787ab834e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:35:44 GMT+1
+1 NAME Василь /Кунцьо/
+2 GIVN Василь
+2 SURN Кунцьо
+1 SEX M
+1 BIRT
+2 _UID 6787ab874e8021efbf05c0ecfda42f87
+2 RIN MH:IF1545
+1 DEAT
+2 _UID 6787ab8773e001efbf05c0ecfda42f87
+2 RIN MH:IF1546
+1 FAMS @F388@
+0 @I997@ INDI
+1 RIN MH:I997
+1 _UID 6787ab984e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:36:26 GMT+1
+1 NAME Марія /Магур/
+2 GIVN Марія
+2 SURN Магур
+2 _MARNM Кунцьо
+1 SEX F
+1 BIRT
+2 _UID 6787aba04e8021efbf05c0ecfda42f87
+2 RIN MH:IF1547
+1 DEAT
+2 _UID 6787aba073e001efbf05c0ecfda42f87
+2 RIN MH:IF1548
+1 FAMS @F388@
+0 @I998@ INDI
+1 RIN MH:I998
+1 _UID 6787ac2c4e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:38:50 GMT+1
+1 NAME Ілля /Коссак/
+2 GIVN Ілля
+2 SURN Коссак
+1 SEX M
+1 BIRT
+2 _UID 6787ac314e8021efbf05c0ecfda42f87
+2 RIN MH:IF1549
+1 DEAT
+2 _UID 6787ac3173e001efbf05c0ecfda42f87
+2 RIN MH:IF1550
+1 FAMS @F389@
+0 @I999@ INDI
+1 RIN MH:I999
+1 _UID 6787ac514e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 13:38:50 GMT+1
+1 NAME Марія /Знакова/
+2 GIVN Марія
+2 SURN Знакова
+2 _MARNM Коссак
+1 SEX F
+1 BIRT
+2 _UID 6787ac5a4e8021efbf05c0ecfda42f87
+2 RIN MH:IF1551
+1 DEAT
+2 _UID 6787ac5a73e001efbf05c0ecfda42f87
+2 RIN MH:IF1552
+1 FAMS @F389@
+0 @I1000@ INDI
+1 RIN MH:I1000
+1 _UID 6787b6dc4e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 14:25:42 GMT+1
+1 NAME Іван /Флюнт/
+2 GIVN Іван
+2 SURN Флюнт
+1 SEX M
+1 BIRT
+2 _UID 6787b6e24e8021efbf05c0ecfda42f87
+2 RIN MH:IF1553
+1 DEAT
+2 _UID 6787b6e273e001efbf05c0ecfda42f87
+2 RIN MH:IF1554
+1 FAMS @F390@
+0 @I1001@ INDI
+1 RIN MH:I1001
+1 _UID 6787b7334e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 15:01:32 GMT+1
+1 NAME Марія /Кулик/
+2 GIVN Марія
+2 SURN Кулик
+2 _MARNM Флюнт
+1 SEX F
+1 BIRT
+2 _UID 6787b7564e8021efbf05c0ecfda42f87
+2 RIN MH:IF1555
+1 DEAT
+2 _UID 6787b75673e001efbf05c0ecfda42f87
+2 RIN MH:IF1556
+1 FAMS @F390@
+0 @I1002@ INDI
+1 RIN MH:I1002
+1 _UID 6787b77a4e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 14:47:23 GMT+1
+1 NAME Ілля /Єнюта/
+2 GIVN Ілля
+2 SURN Єнюта
+1 SEX M
+1 BIRT
+2 _UID 6787b7944e8021efbf05c0ecfda42f87
+2 RIN MH:IF1557
+2 PLAC с. Тустановичі, повіт Дрогобич, Королівство Галичини та Володимирії
+1 DEAT
+2 _UID 6787b79473e001efbf05c0ecfda42f87
+2 RIN MH:IF1558
+1 FAMS @F391@
+0 @I1003@ INDI
+1 RIN MH:I1003
+1 _UID 6787b7b24e8021efbf05c0ecfda42f87
+1 _UPD 15 JAN 2025 14:47:29 GMT+1
+1 NAME Анна /Василишина/
+2 GIVN Анна
+2 SURN Василишина
+2 _MARNM Єнюта
+1 SEX F
+1 BIRT
+2 _UID 6787b7c24e8021efbf05c0ecfda42f87
+2 RIN MH:IF1559
+1 DEAT
+2 _UID 6787b7c273e001efbf05c0ecfda42f87
+2 RIN MH:IF1560
+1 FAMS @F391@
 0 @I500001@ INDI
 1 RIN MH:I500001
 1 _UID 65ED6B01B20EDFA181BC8114C0E6F6C7
@@ -15255,7 +15631,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Профільне фото, зроблене на день Архистратига Михаїла
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P3_354_472.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P3_354_472.jpg
 2 _DATE 8 NOV 2023
 2 _PLACE "Фотохата", вул. Наукова 59, м. Львів
 2 _PRIM Y
@@ -15265,7 +15641,7 @@
 2 _FILESIZE 23543
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P4_344_462.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P4_344_462.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P4
@@ -15290,7 +15666,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Основне фото
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P178_1360_2048.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P178_1360_2048.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 4 8 1354 1809
@@ -15298,7 +15674,7 @@
 2 _FILESIZE 347971
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P180_1350_1801.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P180_1350_1801.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P180
@@ -15322,7 +15698,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Жилочкін Максим Володимирович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P5_640_640.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P5_640_640.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 84 5 555 634
@@ -15330,7 +15706,7 @@
 2 _FILESIZE 76929
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P6_470_629.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P6_470_629.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P6
@@ -15355,7 +15731,7 @@
 1 OBJE
 2 FORM png
 2 TITL Веселова (Міняйло) Людмила Григорівна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P65_1210_1492.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P65_1210_1492.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 49 5 1159 1486
@@ -15363,7 +15739,7 @@
 2 _FILESIZE 1404523
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P66_1110_1481.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P66_1110_1481.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P66
@@ -15388,7 +15764,7 @@
 1 OBJE
 2 FORM png
 2 TITL Веселов Володимир Миколайович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P37_1302_1965.png
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P37_1302_1965.png
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION -6 -9 1283 1708
@@ -15396,7 +15772,7 @@
 2 _FILESIZE 3296086
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P39_1295_1717.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P39_1295_1717.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P39
@@ -15427,7 +15803,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Профіль
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P78_2043_2048.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P78_2043_2048.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 110 -23 1638 2014
@@ -15435,7 +15811,7 @@
 2 _FILESIZE 276745
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P80_1528_2037.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P80_1528_2037.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P80
@@ -15444,7 +15820,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Поважук Валентина Георгіївна
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P11_960_720.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P11_960_720.jpg
 2 _POSITION 214 5 745 714
 2 _PHOTO_RIN MH:P11
 2 _FILESIZE 105876
@@ -15476,7 +15852,7 @@
 1 OBJE
 2 FORM jpg
 2 TITL Жилочкін Володимир Геннадійович
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P9_1044_1393.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P9_1044_1393.jpg
 2 _PRIM Y
 2 _PRIM_CUTOUT Y
 2 _POSITION 5 7 1039 1386
@@ -15484,7 +15860,7 @@
 2 _FILESIZE 256101
 1 OBJE
 2 FORM jpg
-2 FILE D:\Рід\Дерева\2025-01-13_Photos\P10_1034_1383.jpg
+2 FILE D:\Рід\Дерева\2025-01-15_Photos\P10_1034_1383.jpg
 2 _PRIM Y
 2 _CUTOUT Y
 2 _PHOTO_RIN MH:P10
@@ -18406,11 +18782,13 @@
 1 HUSB @I768@
 1 WIFE @I795@
 1 CHIL @I313@
-1 CHIL @I787@
 1 CHIL @I788@
+1 CHIL @I787@
 1 MARR
 2 _UID 6776f916356851efbf05c0ecfda42f87
 2 RIN MH:FF307
+2 DATE 25 NOV 1913
+2 PLAC с. Тустановичі, повіт Дрогобич, Королівство Галичини та Володимирії
 0 @F302@ FAM
 1 RIN MH:F302
 1 _UID 6776fa6fb3fc21efbf05c0ecfda42f87
@@ -18470,10 +18848,13 @@
 1 RIN MH:F308
 1 _UID 67770d50b3fc21efbf05c0ecfda42f87
 1 HUSB @I786@
+1 WIFE @I985@
 1 CHIL @I768@
 1 MARR
 2 _UID 67770d50356851efbf05c0ecfda42f87
 2 RIN MH:FF314
+2 DATE 17 NOV 1885
+2 PLAC с. Губичі, повіт Дрогобич, Королівство Галичини та Володимирії
 0 @F309@ FAM
 1 RIN MH:F309
 1 _UID 67770de978a0f1efbf05c0ecfda42f87
@@ -19127,4 +19508,103 @@
 1 MARR
 2 _UID 67850b74d5eb91efbf05c0ecfda42f87
 2 RIN MH:FF382
+0 @F381@ FAM
+1 RIN MH:F381
+1 _UID 67864677df4961efbf05c0ecfda42f87
+1 HUSB @I983@
+1 CHIL @I77@
+1 MARR
+2 _UID 6786467759dd11efbf05c0ecfda42f87
+2 RIN MH:FF383
+0 @F382@ FAM
+1 RIN MH:F382
+1 _UID 678647a5df4961efbf05c0ecfda42f87
+1 HUSB @I984@
+1 CHIL @I983@
+1 MARR
+2 _UID 678647a559dd11efbf05c0ecfda42f87
+2 RIN MH:FF384
+0 @F383@ FAM
+1 RIN MH:F383
+1 _UID 6786d5e173e001efbf05c0ecfda42f87
+1 HUSB @I986@
+1 WIFE @I987@
+1 CHIL @I795@
+1 MARR
+2 _UID 6786d5e1344071efbf05c0ecfda42f87
+2 RIN MH:FF385
+0 @F384@ FAM
+1 RIN MH:F384
+1 _UID 6786e0c073e001efbf05c0ecfda42f87
+1 HUSB @I988@
+1 WIFE @I989@
+1 CHIL @I786@
+1 MARR
+2 _UID 6786e0c0344071efbf05c0ecfda42f87
+2 RIN MH:FF386
+2 DATE 14 NOV 1858
+2 PLAC с. Тустановичі, повіт Дрогобич, Королівство Галичини та Володимирії
+0 @F385@ FAM
+1 RIN MH:F385
+1 _UID 6786e1a773e001efbf05c0ecfda42f87
+1 HUSB @I990@
+1 WIFE @I991@
+1 CHIL @I985@
+1 MARR
+2 _UID 6786e1a7344071efbf05c0ecfda42f87
+2 RIN MH:FF387
+0 @F386@ FAM
+1 RIN MH:F386
+1 _UID 6786edb073e001efbf05c0ecfda42f87
+1 HUSB @I992@
+1 WIFE @I993@
+1 CHIL @I986@
+1 MARR
+2 _UID 6786edb0344071efbf05c0ecfda42f87
+2 RIN MH:FF388
+0 @F387@ FAM
+1 RIN MH:F387
+1 _UID 6786edeb73e001efbf05c0ecfda42f87
+1 HUSB @I994@
+1 WIFE @I995@
+1 CHIL @I987@
+1 MARR
+2 _UID 6786edeb344071efbf05c0ecfda42f87
+2 RIN MH:FF389
+0 @F388@ FAM
+1 RIN MH:F388
+1 _UID 6787ab8373e001efbf05c0ecfda42f87
+1 HUSB @I996@
+1 WIFE @I997@
+1 CHIL @I990@
+1 MARR
+2 _UID 6787ab83344071efbf05c0ecfda42f87
+2 RIN MH:FF390
+0 @F389@ FAM
+1 RIN MH:F389
+1 _UID 6787ac2c73e001efbf05c0ecfda42f87
+1 HUSB @I998@
+1 WIFE @I999@
+1 CHIL @I991@
+1 MARR
+2 _UID 6787ac2c344071efbf05c0ecfda42f87
+2 RIN MH:FF391
+0 @F390@ FAM
+1 RIN MH:F390
+1 _UID 6787b6dc73e001efbf05c0ecfda42f87
+1 HUSB @I1000@
+1 WIFE @I1001@
+1 CHIL @I988@
+1 MARR
+2 _UID 6787b6dc344071efbf05c0ecfda42f87
+2 RIN MH:FF392
+0 @F391@ FAM
+1 RIN MH:F391
+1 _UID 6787b77a73e001efbf05c0ecfda42f87
+1 HUSB @I1002@
+1 WIFE @I1003@
+1 CHIL @I989@
+1 MARR
+2 _UID 6787b77a344071efbf05c0ecfda42f87
+2 RIN MH:FF393
 0 TRLR
