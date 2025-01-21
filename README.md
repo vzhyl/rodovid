@@ -6,7 +6,9 @@ https://vzhyl.github.io/rodovid/
 
 
 <br>
+
 ---
+
 <br>
 
 ## Функціонал
@@ -25,7 +27,9 @@ https://vzhyl.github.io/rodovid/
 - Контакти
 
 <br>
+
 ---
+
 <br>
 
 ## Останні зміни
