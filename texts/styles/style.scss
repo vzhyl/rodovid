@@ -13,239 +13,138 @@ $prime: #a50000;
 $dark: #000;
 $light: #fff;
 @media screen and (min-width: 1100px) {
-    body {
-        overflow-y: scroll;
-        overflow-x: hidden;
-        #search {
-            position: absolute;
-            top: 25%;
-            width: 70%;
-            left: 15%;
-            transition: all 750ms ease-in-out;
-            #searchInput {
-                #searchBar {
-                    -webkit-tap-highlight-color: transparent;
-                    width: calc(100% - 30px);
-                    border: 0;
-                    padding: 15px;
-                    border-radius: 25px;
-                    outline: 2px solid $prime;
-                    transition: all 250ms ease-in-out;
-                    background-color: $light;
-                    &:focus {
-                        outline: 2px solid $dark;
-                    }
+    #search {
+        position: absolute;
+        top: 25%;
+        width: 70%;
+        left: 15%;
+        transition: all 750ms ease-in-out;
+        #searchInput {
+            #searchBar {
+                -webkit-tap-highlight-color: transparent;
+                width: calc(100% - 30px);
+                border: 0;
+                padding: 15px;
+                border-radius: 25px;
+                outline: 2px solid $prime;
+                transition: all 250ms ease-in-out;
+                background-color: $light;
+                &:focus {
+                    outline: 2px solid $dark;
                 }
             }
-            #resList {
-                margin-top: 50px;
-                .resObj {
-                    margin-top: 25px;
-                    background-color: $light;
-                    padding: 10px 15px 25px 0;
-                    &:not(:last-child) {
-                        border-bottom: 2px solid $prime;
+        }
+        #resList {
+            margin-top: 50px;
+            .resObj {
+                margin-top: 25px;
+                background-color: $light;
+                padding: 10px 15px 25px 0;
+                &:not(:last-child) {
+                    border-bottom: 2px solid $prime;
+                }
+                a {
+                    text-decoration: none;
+                    color: $dark;
+                    font-size: x-large;
+                    cursor: pointer;
+                }
+                div {
+                    margin-top: 10px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    p {
+                        text-wrap: nowrap;
+                        span {
+                            outline: 2px solid $prime;
+                            color: $prime;
+                            border-radius: 35px;
+                            padding: 5px 10px;
+                            margin-right: 10px;
+                        }
                     }
-                    a {
-                        text-decoration: none;
-                        color: $dark;
-                        font-size: x-large;
-                        cursor: pointer;
-                    }
-                    div {
-                        margin-top: 10px;
+                    ul {
+                        list-style: none;
                         display: flex;
                         flex-direction: row;
-                        justify-content: space-between;
-                        p {
-                            text-wrap: nowrap;
-                            span {
-                                outline: 2px solid $prime;
-                                color: $prime;
-                                border-radius: 35px;
-                                padding: 5px 10px;
-                                margin-right: 10px;
-                            }
-                        }
-                        ul {
-                            list-style: none;
-                            display: flex;
-                            flex-direction: row;
-                            flex-wrap: wrap;
-                            max-width: 40%;
-                            justify-content: end;
-                            li {
-                                margin: 5px 5px;
-                                background-color: $prime;
-                                color: $light;
-                                border-radius: 25px;
-                                padding: 5px 10px;
-                                font-size: small;
-                                height: fit-content;
-                                user-select: none;
-                                cursor: pointer;
-                            }
+                        flex-wrap: wrap;
+                        max-width: 40%;
+                        justify-content: end;
+                        li {
+                            margin: 5px 5px;
+                            background-color: $prime;
+                            color: $light;
+                            border-radius: 25px;
+                            padding: 5px 10px;
+                            font-size: small;
+                            height: fit-content;
+                            user-select: none;
+                            cursor: pointer;
                         }
                     }
                 }
-            }
-        }
-        #textOutput {
-            position: absolute;
-            top: 25%;
-            width: 50%;
-            left: 100%;
-            transition: all 750ms ease-in-out;
-            p {
-                font-family: 'Times New Roman', Times, serif;
-                font-weight: 400;
-                font-style: normal;
-            }
-            img {
-                border: 2px solid $prime;
-                border-radius: 10px;
-                width: 100%;
-                max-height: 50vh;
-                object-fit: cover;
-                cursor: pointer;
-            }
-            i {
-                font-style: italic;
-            }
-            b {
-                font-weight: 900;
-            }
-        }
-        #backBtn {
-            position: fixed;
-            left: -25%;
-            top: 20%;
-            background-color: $prime;
-            color: $light;
-            border: 0;
-            padding: 10px 25px;
-            border-radius: 25px;
-            cursor: pointer;
-            transition: all 500ms ease-in-out;
-        }
-        &.open {
-            #search {
-                left: -100%;
-            }
-            #textOutput {
-                left: 25%;
-            }
-            #backBtn {
-                left: 10%;
             }
         }
     }
 }
 
 @media screen and (max-width: 1099px) {
-    html,
-    body {
-        scroll-behavior: smooth;
-        margin: 0;
-        box-sizing: border-box;
-        height: fit-content;
-    }
-    body {
-        height: fit-content;
-        position: relative;
-        overflow-x: hidden;
-        #search {
-            margin-top: 125px;
-            #searchInput {
-                text-align: center;
-                #searchBar {
-                    position: fixed;
-                    left: 10%;
-                    bottom: 10px;
-                    width: calc(80% - 20px);
-                    border: 0;
-                    border-radius: 50px;
-                    margin: 0;
-                    padding: 10px;
-                    background-color: $prime;
-                    color: $light;
-                    transition: all 250ms ease-in-out;
-                    &:focus {
-                        outline: 0;
-                        bottom: 15px
-                    }
-                    &::placeholder {
-                        color: $light;
-                        opacity: 0.7;
-                    }
-                }
-            }
-            #resList {
-                margin: 10% 5% 25% 5%;
-                width: fit-content;
+    #search {
+        position: absolute;
+        top: 125px;
+        width: 70%;
+        left: 15%;
+        transition: all 750ms ease-in-out;
+        #searchInput {
+            #searchBar {
+                -webkit-tap-highlight-color: transparent;
+                width: calc(100% - 30px);
+                border: 0;
+                padding: 15px;
+                border-radius: 25px;
+                outline: 2px solid $prime;
                 transition: all 250ms ease-in-out;
-                .resObj {
-                    padding: 15px 25px 15% 5px;
-                    margin: 15% 0;
-                    &:not(:last-child) {
-                        border-bottom: 2px solid $prime;
-                    }
-                    a {
-                        font-size: large;
-                    }
-                    div {
-                        p {
-                            margin-top: 20px;
-                            font-size: small;
-                            span {
-                                border: 2px solid $prime;
-                                padding: 2.5px 10px;
-                                border-radius: 15px;
-                            }
-                        }
-                        ul {
-                            display: none;
-                        }
-                    }
+                background-color: $light;
+                &:focus {
+                    outline: 2px solid $dark;
                 }
             }
         }
-        #textOutput {
-            position: absolute;
-            overflow: scroll;
-            background-color: $light;
-            top: 0;
-            left: 0;
-            padding: 0 5%;
-            width: 90%;
-            visibility: hidden;
-            opacity: 0;
-            transition: all 500ms ease-in-out;
-            p {
-                font-family: 'Times New Roman', Times, serif;
-            }
-            img {
-                width: 100%;
-            }
-        }
-        #backBtn {
-            position: fixed;
-            right: -50%;
-            bottom: 75px;
-            transition: all 250ms ease-in-out;
-            background-color: $prime;
-            border: 0;
-            border-radius: 50px 0 0 50px;
-            padding: 15px 35px 15px 35px;
-            color: $light;
-        }
-        &.open {
-            #textOutput {
-                visibility: visible;
-                opacity: 1;
-            }
-            #backBtn {
-                right: 0px;
+        #resList {
+            margin-top: 25px;
+            .resObj {
+                margin-top: 25px;
+                background-color: $light;
+                padding: 10px 15px 25px 0;
+                &:not(:last-child) {
+                    border-bottom: 2px solid $prime;
+                }
+                a {
+                    text-decoration: none;
+                    color: $dark;
+                    font-size: x-large;
+                    cursor: pointer;
+                }
+                div {
+                    margin-top: 10px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    p {
+                        text-wrap: nowrap;
+                        span {
+                            outline: 2px solid $prime;
+                            color: $prime;
+                            border-radius: 35px;
+                            padding: 5px 10px;
+                            margin-right: 10px;
+                        }
+                    }
+                    ul {
+                        display: none;
+                    }
+                }
             }
         }
     }

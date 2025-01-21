@@ -7,18 +7,14 @@
 }
 
 @media screen and (min-width: 1100px) {
-  body {
-    overflow-y: scroll;
-    overflow-x: hidden;
-  }
-  body #search {
+  #search {
     position: absolute;
     top: 25%;
     width: 70%;
     left: 15%;
     transition: all 750ms ease-in-out;
   }
-  body #search #searchInput #searchBar {
+  #search #searchInput #searchBar {
     -webkit-tap-highlight-color: transparent;
     width: calc(100% - 30px);
     border: 0;
@@ -28,43 +24,43 @@
     transition: all 250ms ease-in-out;
     background-color: #fff;
   }
-  body #search #searchInput #searchBar:focus {
+  #search #searchInput #searchBar:focus {
     outline: 2px solid #000;
   }
-  body #search #resList {
+  #search #resList {
     margin-top: 50px;
   }
-  body #search #resList .resObj {
+  #search #resList .resObj {
     margin-top: 25px;
     background-color: #fff;
     padding: 10px 15px 25px 0;
   }
-  body #search #resList .resObj:not(:last-child) {
+  #search #resList .resObj:not(:last-child) {
     border-bottom: 2px solid #a50000;
   }
-  body #search #resList .resObj a {
+  #search #resList .resObj a {
     text-decoration: none;
     color: #000;
     font-size: x-large;
     cursor: pointer;
   }
-  body #search #resList .resObj div {
+  #search #resList .resObj div {
     margin-top: 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  body #search #resList .resObj div p {
+  #search #resList .resObj div p {
     text-wrap: nowrap;
   }
-  body #search #resList .resObj div p span {
+  #search #resList .resObj div p span {
     outline: 2px solid #a50000;
     color: #a50000;
     border-radius: 35px;
     padding: 5px 10px;
     margin-right: 10px;
   }
-  body #search #resList .resObj div ul {
+  #search #resList .resObj div ul {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -72,7 +68,7 @@
     max-width: 40%;
     justify-content: end;
   }
-  body #search #resList .resObj div ul li {
+  #search #resList .resObj div ul li {
     margin: 5px 5px;
     background-color: #a50000;
     color: #fff;
@@ -86,163 +82,62 @@
             user-select: none;
     cursor: pointer;
   }
-  body #textOutput {
-    position: absolute;
-    top: 25%;
-    width: 50%;
-    left: 100%;
-    transition: all 750ms ease-in-out;
-  }
-  body #textOutput p {
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  body #textOutput img {
-    border: 2px solid #a50000;
-    border-radius: 10px;
-    width: 100%;
-    max-height: 50vh;
-    -o-object-fit: cover;
-       object-fit: cover;
-    cursor: pointer;
-  }
-  body #textOutput i {
-    font-style: italic;
-  }
-  body #textOutput b {
-    font-weight: 900;
-  }
-  body #backBtn {
-    position: fixed;
-    left: -25%;
-    top: 20%;
-    background-color: #a50000;
-    color: #fff;
-    border: 0;
-    padding: 10px 25px;
-    border-radius: 25px;
-    cursor: pointer;
-    transition: all 500ms ease-in-out;
-  }
-  body.open #search {
-    left: -100%;
-  }
-  body.open #textOutput {
-    left: 25%;
-  }
-  body.open #backBtn {
-    left: 10%;
-  }
 }
 @media screen and (max-width: 1099px) {
-  html,
-  body {
-    scroll-behavior: smooth;
-    margin: 0;
-    box-sizing: border-box;
-    height: -moz-fit-content;
-    height: fit-content;
+  #search {
+    position: absolute;
+    top: 125px;
+    width: 70%;
+    left: 15%;
+    transition: all 750ms ease-in-out;
   }
-  body {
-    height: -moz-fit-content;
-    height: fit-content;
-    position: relative;
-    overflow-x: hidden;
-  }
-  body #search {
-    margin-top: 125px;
-  }
-  body #search #searchInput {
-    text-align: center;
-  }
-  body #search #searchInput #searchBar {
-    position: fixed;
-    left: 10%;
-    bottom: 10px;
-    width: calc(80% - 20px);
+  #search #searchInput #searchBar {
+    -webkit-tap-highlight-color: transparent;
+    width: calc(100% - 30px);
     border: 0;
-    border-radius: 50px;
-    margin: 0;
-    padding: 10px;
-    background-color: #a50000;
-    color: #fff;
+    padding: 15px;
+    border-radius: 25px;
+    outline: 2px solid #a50000;
     transition: all 250ms ease-in-out;
+    background-color: #fff;
   }
-  body #search #searchInput #searchBar:focus {
-    outline: 0;
-    bottom: 15px;
+  #search #searchInput #searchBar:focus {
+    outline: 2px solid #000;
   }
-  body #search #searchInput #searchBar::-moz-placeholder {
-    color: #fff;
-    opacity: 0.7;
+  #search #resList {
+    margin-top: 25px;
   }
-  body #search #searchInput #searchBar::placeholder {
-    color: #fff;
-    opacity: 0.7;
+  #search #resList .resObj {
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 10px 15px 25px 0;
   }
-  body #search #resList {
-    margin: 10% 5% 25% 5%;
-    width: -moz-fit-content;
-    width: fit-content;
-    transition: all 250ms ease-in-out;
-  }
-  body #search #resList .resObj {
-    padding: 15px 25px 15% 5px;
-    margin: 15% 0;
-  }
-  body #search #resList .resObj:not(:last-child) {
+  #search #resList .resObj:not(:last-child) {
     border-bottom: 2px solid #a50000;
   }
-  body #search #resList .resObj a {
-    font-size: large;
+  #search #resList .resObj a {
+    text-decoration: none;
+    color: #000;
+    font-size: x-large;
+    cursor: pointer;
   }
-  body #search #resList .resObj div p {
-    margin-top: 20px;
-    font-size: small;
+  #search #resList .resObj div {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
   }
-  body #search #resList .resObj div p span {
-    border: 2px solid #a50000;
-    padding: 2.5px 10px;
-    border-radius: 15px;
+  #search #resList .resObj div p {
+    text-wrap: nowrap;
   }
-  body #search #resList .resObj div ul {
+  #search #resList .resObj div p span {
+    outline: 2px solid #a50000;
+    color: #a50000;
+    border-radius: 35px;
+    padding: 5px 10px;
+    margin-right: 10px;
+  }
+  #search #resList .resObj div ul {
     display: none;
-  }
-  body #textOutput {
-    position: absolute;
-    overflow: scroll;
-    background-color: #fff;
-    top: 0;
-    left: 0;
-    padding: 0 5%;
-    width: 90%;
-    visibility: hidden;
-    opacity: 0;
-    transition: all 500ms ease-in-out;
-  }
-  body #textOutput p {
-    font-family: "Times New Roman", Times, serif;
-  }
-  body #textOutput img {
-    width: 100%;
-  }
-  body #backBtn {
-    position: fixed;
-    right: -50%;
-    bottom: 75px;
-    transition: all 250ms ease-in-out;
-    background-color: #a50000;
-    border: 0;
-    border-radius: 50px 0 0 50px;
-    padding: 15px 35px 15px 35px;
-    color: #fff;
-  }
-  body.open #textOutput {
-    visibility: visible;
-    opacity: 1;
-  }
-  body.open #backBtn {
-    right: 0px;
   }
 }/*# sourceMappingURL=style.css.map */

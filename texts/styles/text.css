@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap");
+#textObj {
+  position: absolute;
+  top: 150px;
+  left: 25%;
+  width: 50%;
+  text-align: justify;
+}
+#textObj * {
+  font-family: "Times New Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#textObj h1, #textObj h2, #textObj h3, #textObj h4, #textObj h5 {
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#textObj img {
+  height: 50vh;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
+  border-radius: 10px;
+}
+#textObj hr {
+  width: 50%;
+  background-color: #000;
+}
+#textObj a {
+  color: #a50000;
+  text-decoration: none;
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  transition: all 250ms ease-in-out;
+}
+#textObj a:hover {
+  margin: 0 5px;
+}
+#textObj .divTable {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+#textObj .divTable .row {
+  display: flex;
+  flex-direction: row;
+}
+#textObj .divTable .row:not(:last-child) {
+  border-bottom: 2px solid #a50000;
+}
+#textObj .divTable .row .cell {
+  padding: 10px;
+  text-align: start;
+  flex: 1 1 5px;
+}
+#textObj .divTable .row .cell:not(:last-child) {
+  border-right: 1px solid #000;
+  padding-right: 5px;
+}
+#textObj .divTable .row.header {
+  background-color: #a50000;
+  color: #fff;
+}
+#textObj .divTable .row.header .cell {
+  text-align: center;
+  padding-left: 0;
+}
+
+@media screen and (max-width: 600px) {
+  #textObj {
+    width: 90%;
+    left: 5%;
+  }
+}/*# sourceMappingURL=text.css.map */
